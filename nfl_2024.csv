@@ -1,0 +1,285 @@
+Week,Day,Date,Time,Winner,Loser,Winner Points,Loser Points,Winner Yards,Loser Yards
+1,Thu,9/5/2024,8:20PM,Kansas City Chiefs,Baltimore Ravens,27,20,353,452
+1,Fri,9/6/2024,8:15PM,Philadelphia Eagles,Green Bay Packers,34,29,410,414
+1,Sun,9/8/2024,1:00PM,Pittsburgh Steelers,Atlanta Falcons,18,10,270,226
+1,Sun,9/8/2024,1:00PM,Buffalo Bills,Arizona Cardinals,34,28,352,270
+1,Sun,9/8/2024,1:00PM,New Orleans Saints,Carolina Panthers,47,10,379,193
+1,Sun,9/8/2024,1:00PM,Chicago Bears,Tennessee Titans,24,17,148,244
+1,Sun,9/8/2024,1:00PM,New England Patriots,Cincinnati Bengals,16,10,290,224
+1,Sun,9/8/2024,1:00PM,Houston Texans,Indianapolis Colts,29,27,417,303
+1,Sun,9/8/2024,1:00PM,Miami Dolphins,Jacksonville Jaguars,20,17,400,267
+1,Sun,9/8/2024,1:00PM,Minnesota Vikings,New York Giants,28,6,312,240
+1,Sun,9/8/2024,4:05PM,Seattle Seahawks,Denver Broncos,26,20,304,231
+1,Sun,9/8/2024,4:05PM,Los Angeles Chargers,Las Vegas Raiders,22,10,316,296
+1,Sun,9/8/2024,4:25PM,Dallas Cowboys,Cleveland Browns,33,17,265,230
+1,Sun,9/8/2024,4:25PM,Tampa Bay Buccaneers,Washington Commanders,37,20,392,299
+1,Sun,9/8/2024,8:20PM,Detroit Lions,Los Angeles Rams,26,20,363,387
+1,Mon,9/9/2024,8:15PM,San Francisco 49ers,New York Jets,32,19,401,266
+2,Thu,9/12/2024,8:15PM,Buffalo Bills,Miami Dolphins,31,10,247,351
+2,Sun,9/15/2024,1:00PM,Los Angeles Chargers,Carolina Panthers,26,3,349,159
+2,Sun,9/15/2024,1:00PM,Cleveland Browns,Jacksonville Jaguars,18,13,297,323
+2,Sun,9/15/2024,1:00PM,Green Bay Packers,Indianapolis Colts,16,10,383,338
+2,Sun,9/15/2024,1:00PM,New Orleans Saints,Dallas Cowboys,44,19,432,353
+2,Sun,9/15/2024,1:00PM,Tampa Bay Buccaneers,Detroit Lions,20,16,216,463
+2,Sun,9/15/2024,1:00PM,Minnesota Vikings,San Francisco 49ers,23,17,403,396
+2,Sun,9/15/2024,1:00PM,Seattle Seahawks,New England Patriots,23,20,358,310
+2,Sun,9/15/2024,1:00PM,Washington Commanders,New York Giants,21,18,425,304
+2,Sun,9/15/2024,1:00PM,New York Jets,Tennessee Titans,24,17,265,300
+2,Sun,9/15/2024,1:00PM,Las Vegas Raiders,Baltimore Ravens,26,23,260,383
+2,Sun,9/15/2024,4:05PM,Arizona Cardinals,Los Angeles Rams,41,10,489,245
+2,Sun,9/15/2024,4:25PM,Kansas City Chiefs,Cincinnati Bengals,26,25,286,320
+2,Sun,9/15/2024,4:25PM,Pittsburgh Steelers,Denver Broncos,13,6,251,295
+2,Sun,9/15/2024,8:20PM,Houston Texans,Chicago Bears,19,13,310,205
+2,Mon,9/16/2024,8:15PM,Atlanta Falcons,Philadelphia Eagles,22,21,385,365
+3,Thu,9/19/2024,8:15PM,New York Jets,New England Patriots,24,3,400,139
+3,Sun,9/22/2024,1:00PM,Indianapolis Colts,Chicago Bears,21,16,306,395
+3,Sun,9/22/2024,1:00PM,New York Giants,Cleveland Browns,21,15,340,217
+3,Sun,9/22/2024,1:00PM,Denver Broncos,Tampa Bay Buccaneers,26,7,352,223
+3,Sun,9/22/2024,1:00PM,Green Bay Packers,Tennessee Titans,30,14,378,237
+3,Sun,9/22/2024,1:00PM,Minnesota Vikings,Houston Texans,34,7,274,296
+3,Sun,9/22/2024,1:00PM,Philadelphia Eagles,New Orleans Saints,15,12,460,219
+3,Sun,9/22/2024,1:00PM,Pittsburgh Steelers,Los Angeles Chargers,20,10,346,166
+3,Sun,9/22/2024,4:05PM,Carolina Panthers,Las Vegas Raiders,36,22,437,331
+3,Sun,9/22/2024,4:05PM,Seattle Seahawks,Miami Dolphins,24,3,370,205
+3,Sun,9/22/2024,4:25PM,Detroit Lions,Arizona Cardinals,20,13,373,277
+3,Sun,9/22/2024,4:25PM,Baltimore Ravens,Dallas Cowboys,28,25,456,412
+3,Sun,9/22/2024,4:25PM,Los Angeles Rams,San Francisco 49ers,27,24,296,425
+3,Sun,9/22/2024,8:20PM,Kansas City Chiefs,Atlanta Falcons,22,17,345,311
+3,Mon,9/23/2024,7:30PM,Buffalo Bills,Jacksonville Jaguars,47,10,388,239
+3,Mon,9/23/2024,8:15PM,Washington Commanders,Cincinnati Bengals,38,33,356,436
+4,Thu,9/26/2024,8:15PM,Dallas Cowboys,New York Giants,20,15,293,303
+4,Sun,9/29/2024,1:00PM,Atlanta Falcons,New Orleans Saints,26,24,315,366
+4,Sun,9/29/2024,1:00PM,Cincinnati Bengals,Carolina Panthers,34,24,373,375
+4,Sun,9/29/2024,1:00PM,Chicago Bears,Los Angeles Rams,24,18,264,322
+4,Sun,9/29/2024,1:00PM,Indianapolis Colts,Pittsburgh Steelers,27,24,358,404
+4,Sun,9/29/2024,1:00PM,Denver Broncos,New York Jets,10,9,186,248
+4,Sun,9/29/2024,1:00PM,Minnesota Vikings,Green Bay Packers,31,29,374,465
+4,Sun,9/29/2024,1:00PM,Houston Texans,Jacksonville Jaguars,24,20,435,313
+4,Sun,9/29/2024,1:00PM,Tampa Bay Buccaneers,Philadelphia Eagles,33,16,445,227
+4,Sun,9/29/2024,4:05PM,Washington Commanders,Arizona Cardinals,42,14,449,296
+4,Sun,9/29/2024,4:05PM,San Francisco 49ers,New England Patriots,30,13,431,216
+4,Sun,9/29/2024,4:25PM,Las Vegas Raiders,Cleveland Browns,20,16,268,241
+4,Sun,9/29/2024,4:25PM,Kansas City Chiefs,Los Angeles Chargers,17,10,329,224
+4,Sun,9/29/2024,8:20PM,Baltimore Ravens,Buffalo Bills,35,10,427,236
+4,Mon,9/30/2024,7:30PM,Tennessee Titans,Miami Dolphins,31,12,244,184
+4,Mon,9/30/2024,8:15PM,Detroit Lions,Seattle Seahawks,42,29,389,516
+5,Thu,10/3/2024,8:15PM,Atlanta Falcons,Tampa Bay Buccaneers,36,30,550,333
+5,Sun,10/6/2024,9:30AM,Minnesota Vikings,New York Jets,23,17,253,254
+5,Sun,10/6/2024,1:00PM,Houston Texans,Buffalo Bills,23,20,425,276
+5,Sun,10/6/2024,1:00PM,Chicago Bears,Carolina Panthers,36,10,424,292
+5,Sun,10/6/2024,1:00PM,Baltimore Ravens,Cincinnati Bengals,41,38,520,442
+5,Sun,10/6/2024,1:00PM,Washington Commanders,Cleveland Browns,34,13,434,212
+5,Sun,10/6/2024,1:00PM,Jacksonville Jaguars,Indianapolis Colts,37,34,497,447
+5,Sun,10/6/2024,1:00PM,Miami Dolphins,New England Patriots,15,10,372,299
+5,Sun,10/6/2024,4:05PM,Arizona Cardinals,San Francisco 49ers,24,23,358,384
+5,Sun,10/6/2024,4:05PM,Denver Broncos,Las Vegas Raiders,34,18,289,330
+5,Sun,10/6/2024,4:25PM,Green Bay Packers,Los Angeles Rams,24,19,328,370
+5,Sun,10/6/2024,4:25PM,New York Giants,Seattle Seahawks,29,20,420,333
+5,Sun,10/6/2024,8:20PM,Dallas Cowboys,Pittsburgh Steelers,20,17,445,226
+5,Mon,10/7/2024,8:15PM,Kansas City Chiefs,New Orleans Saints,26,13,460,220
+6,Thu,10/10/2024,8:15PM,San Francisco 49ers,Seattle Seahawks,36,24,483,358
+6,Sun,10/13/2024,9:30AM,Chicago Bears,Jacksonville Jaguars,35,16,373,278
+6,Sun,10/13/2024,1:00PM,Philadelphia Eagles,Cleveland Browns,20,16,372,244
+6,Sun,10/13/2024,1:00PM,Indianapolis Colts,Tennessee Titans,20,17,269,241
+6,Sun,10/13/2024,1:00PM,Green Bay Packers,Arizona Cardinals,34,13,437,303
+6,Sun,10/13/2024,1:00PM,Houston Texans,New England Patriots,41,21,368,291
+6,Sun,10/13/2024,1:00PM,Tampa Bay Buccaneers,New Orleans Saints,51,27,594,303
+6,Sun,10/13/2024,1:00PM,Baltimore Ravens,Washington Commanders,30,23,484,305
+6,Sun,10/13/2024,4:05PM,Los Angeles Chargers,Denver Broncos,23,16,350,316
+6,Sun,10/13/2024,4:05PM,Pittsburgh Steelers,Las Vegas Raiders,32,13,293,275
+6,Sun,10/13/2024,4:25PM,Atlanta Falcons,Carolina Panthers,38,20,423,335
+6,Sun,10/13/2024,4:25PM,Detroit Lions,Dallas Cowboys,47,9,492,251
+6,Sun,10/13/2024,8:20PM,Cincinnati Bengals,New York Giants,17,7,304,309
+6,Mon,10/14/2024,8:15PM,Buffalo Bills,New York Jets,23,20,359,393
+7,Thu,10/17/2024,8:15PM,Denver Broncos,New Orleans Saints,33,10,389,271
+7,Sun,10/20/2024,9:30AM,Jacksonville Jaguars,New England Patriots,32,16,364,295
+7,Sun,10/20/2024,1:00PM,Detroit Lions,Minnesota Vikings,31,29,391,383
+7,Sun,10/20/2024,1:00PM,Seattle Seahawks,Atlanta Falcons,34,14,339,369
+7,Sun,10/20/2024,1:00PM,Buffalo Bills,Tennessee Titans,34,10,389,289
+7,Sun,10/20/2024,1:00PM,Cincinnati Bengals,Cleveland Browns,21,14,223,336
+7,Sun,10/20/2024,1:00PM,Indianapolis Colts,Miami Dolphins,16,10,284,337
+7,Sun,10/20/2024,1:00PM,Green Bay Packers,Houston Texans,24,22,277,197
+7,Sun,10/20/2024,1:00PM,Philadelphia Eagles,New York Giants,28,3,339,119
+7,Sun,10/20/2024,4:05PM,Washington Commanders,Carolina Panthers,40,7,421,180
+7,Sun,10/20/2024,4:05PM,Los Angeles Rams,Las Vegas Raiders,20,15,259,317
+7,Sun,10/20/2024,4:25PM,Kansas City Chiefs,San Francisco 49ers,28,18,329,310
+7,Sun,10/20/2024,8:20PM,Pittsburgh Steelers,New York Jets,37,15,409,323
+7,Mon,10/21/2024,8:15PM,Baltimore Ravens,Tampa Bay Buccaneers,41,31,508,481
+7,Mon,10/21/2024,9:00PM,Arizona Cardinals,Los Angeles Chargers,17,15,326,395
+8,Thu,10/24/2024,8:15PM,Los Angeles Rams,Minnesota Vikings,30,20,386,276
+8,Sun,10/27/2024,1:00PM,Detroit Lions,Tennessee Titans,52,14,225,416
+8,Sun,10/27/2024,1:00PM,Atlanta Falcons,Tampa Bay Buccaneers,31,26,394,432
+8,Sun,10/27/2024,1:00PM,Philadelphia Eagles,Cincinnati Bengals,37,17,397,280
+8,Sun,10/27/2024,1:00PM,Cleveland Browns,Baltimore Ravens,29,24,401,387
+8,Sun,10/27/2024,1:00PM,Houston Texans,Indianapolis Colts,23,20,363,303
+8,Sun,10/27/2024,1:00PM,Arizona Cardinals,Miami Dolphins,28,27,389,377
+8,Sun,10/27/2024,1:00PM,Green Bay Packers,Jacksonville Jaguars,30,27,422,390
+8,Sun,10/27/2024,1:00PM,New England Patriots,New York Jets,25,22,248,336
+8,Sun,10/27/2024,4:05PM,Buffalo Bills,Seattle Seahawks,31,10,445,233
+8,Sun,10/27/2024,4:05PM,Los Angeles Chargers,New Orleans Saints,26,8,378,366
+8,Sun,10/27/2024,4:25PM,Washington Commanders,Chicago Bears,18,15,481,307
+8,Sun,10/27/2024,4:25PM,Kansas City Chiefs,Las Vegas Raiders,27,20,334,228
+8,Sun,10/27/2024,4:25PM,Denver Broncos,Carolina Panthers,28,14,400,284
+8,Sun,10/27/2024,8:20PM,San Francisco 49ers,Dallas Cowboys,30,24,469,292
+8,Mon,10/28/2024,8:15PM,Pittsburgh Steelers,New York Giants,26,18,426,394
+9,Thu,10/31/2024,8:15PM,New York Jets,Houston Texans,21,13,293,322
+9,Sun,11/3/2024,1:00PM,Atlanta Falcons,Dallas Cowboys,27,21,310,378
+9,Sun,11/3/2024,1:00PM,Buffalo Bills,Miami Dolphins,30,27,325,373
+9,Sun,11/3/2024,1:00PM,Carolina Panthers,New Orleans Saints,23,22,246,427
+9,Sun,11/3/2024,1:00PM,Cincinnati Bengals,Las Vegas Raiders,41,24,373,217
+9,Sun,11/3/2024,1:00PM,Los Angeles Chargers,Cleveland Browns,27,10,342,292
+9,Sun,11/3/2024,1:00PM,Baltimore Ravens,Denver Broncos,41,10,396,319
+9,Sun,11/3/2024,1:00PM,Tennessee Titans,New England Patriots,20,17,400,295
+9,Sun,11/3/2024,1:00PM,Washington Commanders,New York Giants,27,22,358,326
+9,Sun,11/3/2024,4:05PM,Arizona Cardinals,Chicago Bears,29,9,350,241
+9,Sun,11/3/2024,4:05PM,Philadelphia Eagles,Jacksonville Jaguars,28,23,447,215
+9,Sun,11/3/2024,4:25PM,Detroit Lions,Green Bay Packers,24,14,261,411
+9,Sun,11/3/2024,4:25PM,Los Angeles Rams,Seattle Seahawks,26,20,366,424
+9,Sun,11/3/2024,8:20PM,Minnesota Vikings,Indianapolis Colts,21,13,415,227
+9,Mon,11/4/2024,8:15PM,Kansas City Chiefs,Tampa Bay Buccaneers,30,24,384,284
+10,Thu,11/7/2024,8:15PM,Baltimore Ravens,Cincinnati Bengals,35,34,389,470
+10,Sun,11/10/2024,9:30AM,Carolina Panthers,New York Giants,20,17,306,342
+10,Sun,11/10/2024,1:00PM,New England Patriots,Chicago Bears,19,3,328,142
+10,Sun,11/10/2024,1:00PM,Pittsburgh Steelers,Washington Commanders,28,27,312,242
+10,Sun,11/10/2024,1:00PM,San Francisco 49ers,Tampa Bay Buccaneers,23,20,413,215
+10,Sun,11/10/2024,1:00PM,New Orleans Saints,Atlanta Falcons,20,17,365,468
+10,Sun,11/10/2024,1:00PM,Buffalo Bills,Indianapolis Colts,30,20,415,361
+10,Sun,11/10/2024,1:00PM,Kansas City Chiefs,Denver Broncos,16,14,300,260
+10,Sun,11/10/2024,1:00PM,Minnesota Vikings,Jacksonville Jaguars,12,7,402,143
+10,Sun,11/10/2024,4:05PM,Los Angeles Chargers,Tennessee Titans,27,17,309,289
+10,Sun,11/10/2024,4:25PM,Philadelphia Eagles,Dallas Cowboys,34,6,348,146
+10,Sun,11/10/2024,4:25PM,Arizona Cardinals,New York Jets,31,6,406,207
+10,Sun,11/10/2024,8:20PM,Detroit Lions,Houston Texans,26,23,345,248
+10,Mon,11/11/2024,8:15PM,Miami Dolphins,Los Angeles Rams,23,15,238,327
+11,Thu,11/14/2024,8:15PM,Philadelphia Eagles,Washington Commanders,26,18,434,264
+11,Sun,11/17/2024,1:00PM,Green Bay Packers,Chicago Bears,20,19,366,391
+11,Sun,11/17/2024,1:00PM,New Orleans Saints,Cleveland Browns,35,14,473,443
+11,Sun,11/17/2024,1:00PM,Detroit Lions,Jacksonville Jaguars,52,6,645,170
+11,Sun,11/17/2024,1:00PM,Miami Dolphins,Las Vegas Raiders,34,19,353,328
+11,Sun,11/17/2024,1:00PM,Minnesota Vikings,Tennessee Titans,23,13,318,294
+11,Sun,11/17/2024,1:00PM,Pittsburgh Steelers,Baltimore Ravens,18,16,303,329
+11,Sun,11/17/2024,1:00PM,Indianapolis Colts,New York Jets,28,27,332,253
+11,Sun,11/17/2024,1:00PM,Los Angeles Rams,New England Patriots,28,22,402,382
+11,Sun,11/17/2024,4:05PM,Seattle Seahawks,San Francisco 49ers,20,17,289,277
+11,Sun,11/17/2024,4:05PM,Denver Broncos,Atlanta Falcons,38,6,400,226
+11,Sun,11/17/2024,4:25PM,Buffalo Bills,Kansas City Chiefs,30,21,366,259
+11,Sun,11/17/2024,8:20PM,Los Angeles Chargers,Cincinnati Bengals,34,27,435,452
+11,Mon,11/18/2024,8:15PM,Houston Texans,Dallas Cowboys,34,10,391,388
+12,Thu,11/21/2024,8:15PM,Cleveland Browns,Pittsburgh Steelers,24,19,304,368
+12,Sun,11/24/2024,1:00PM,Kansas City Chiefs,Carolina Panthers,30,27,391,334
+12,Sun,11/24/2024,1:00PM,Minnesota Vikings,Chicago Bears,30,27,452,398
+12,Sun,11/24/2024,1:00PM,Dallas Cowboys,Washington Commanders,34,26,332,412
+12,Sun,11/24/2024,1:00PM,Miami Dolphins,New England Patriots,34,15,373,269
+12,Sun,11/24/2024,1:00PM,Tampa Bay Buccaneers,New York Giants,30,7,451,245
+12,Sun,11/24/2024,1:00PM,Detroit Lions,Indianapolis Colts,24,6,390,268
+12,Sun,11/24/2024,1:00PM,Tennessee Titans,Houston Texans,32,27,369,260
+12,Sun,11/24/2024,4:05PM,Denver Broncos,Las Vegas Raiders,29,19,325,369
+12,Sun,11/24/2024,4:25PM,Seattle Seahawks,Arizona Cardinals,16,6,285,298
+12,Sun,11/24/2024,4:25PM,Green Bay Packers,San Francisco 49ers,38,10,325,241
+12,Sun,11/24/2024,8:20PM,Philadelphia Eagles,Los Angeles Rams,37,20,481,290
+12,Mon,11/25/2024,8:15PM,Baltimore Ravens,Los Angeles Chargers,30,23,389,285
+13,Thu,11/28/2024,12:30PM,Detroit Lions,Chicago Bears,23,20,405,301
+13,Thu,11/28/2024,4:30PM,Dallas Cowboys,New York Giants,27,20,317,247
+13,Thu,11/28/2024,8:20PM,Green Bay Packers,Miami Dolphins,30,17,388,375
+13,Fri,11/29/2024,3:00PM,Kansas City Chiefs,Las Vegas Raiders,19,17,329,434
+13,Sun,12/1/2024,1:00PM,Los Angeles Chargers,Atlanta Falcons,17,13,187,350
+13,Sun,12/1/2024,1:00PM,Pittsburgh Steelers,Cincinnati Bengals,44,38,520,375
+13,Sun,12/1/2024,1:00PM,Minnesota Vikings,Arizona Cardinals,23,22,273,406
+13,Sun,12/1/2024,1:00PM,Seattle Seahawks,New York Jets,26,21,259,258
+13,Sun,12/1/2024,1:00PM,Washington Commanders,Tennessee Titans,42,19,463,245
+13,Sun,12/1/2024,1:00PM,Indianapolis Colts,New England Patriots,25,24,253,422
+13,Sun,12/1/2024,1:00PM,Houston Texans,Jacksonville Jaguars,23,20,326,373
+13,Sun,12/1/2024,4:05PM,Tampa Bay Buccaneers,Carolina Panthers,26,23,445,367
+13,Sun,12/1/2024,4:05PM,Los Angeles Rams,New Orleans Saints,21,14,322,327
+13,Sun,12/1/2024,4:25PM,Philadelphia Eagles,Baltimore Ravens,24,19,252,372
+13,Sun,12/1/2024,8:20PM,Buffalo Bills,San Francisco 49ers,35,10,372,239
+13,Mon,12/2/2024,8:15PM,Denver Broncos,Cleveland Browns,41,32,400,552
+14,Thu,12/5/2024,8:15PM,Detroit Lions,Green Bay Packers,34,31,391,298
+14,Sun,12/8/2024,1:00PM,Minnesota Vikings,Atlanta Falcons,42,21,433,496
+14,Sun,12/8/2024,1:00PM,Philadelphia Eagles,Carolina Panthers,22,16,292,302
+14,Sun,12/8/2024,1:00PM,Pittsburgh Steelers,Cleveland Browns,27,14,267,300
+14,Sun,12/8/2024,1:00PM,Jacksonville Jaguars,Tennessee Titans,10,6,291,272
+14,Sun,12/8/2024,1:00PM,Miami Dolphins,New York Jets,32,26,375,402
+14,Sun,12/8/2024,1:00PM,New Orleans Saints,New York Giants,14,11,292,325
+14,Sun,12/8/2024,1:00PM,Tampa Bay Buccaneers,Las Vegas Raiders,28,13,420,286
+14,Sun,12/8/2024,4:05PM,Seattle Seahawks,Arizona Cardinals,30,18,409,356
+14,Sun,12/8/2024,4:25PM,Los Angeles Rams,Buffalo Bills,44,42,457,445
+14,Sun,12/8/2024,4:25PM,San Francisco 49ers,Chicago Bears,38,13,452,162
+14,Sun,12/8/2024,8:20PM,Kansas City Chiefs,Los Angeles Chargers,19,17,298,288
+14,Mon,12/9/2024,8:15PM,Cincinnati Bengals,Dallas Cowboys,27,20,433,322
+15,Thu,12/12/2024,8:15PM,Los Angeles Rams,San Francisco 49ers,12,6,302,191
+15,Sun,12/15/2024,1:00PM,Dallas Cowboys,Carolina Panthers,30,14,410,235
+15,Sun,12/15/2024,1:00PM,Cincinnati Bengals,Tennessee Titans,37,27,370,374
+15,Sun,12/15/2024,1:00PM,Kansas City Chiefs,Cleveland Browns,21,7,311,266
+15,Sun,12/15/2024,1:00PM,Houston Texans,Miami Dolphins,20,12,181,224
+15,Sun,12/15/2024,1:00PM,New York Jets,Jacksonville Jaguars,32,25,400,421
+15,Sun,12/15/2024,1:00PM,Washington Commanders,New Orleans Saints,20,19,326,245
+15,Sun,12/15/2024,1:00PM,Baltimore Ravens,New York Giants,35,14,445,236
+15,Sun,12/15/2024,4:25PM,Buffalo Bills,Detroit Lions,48,42,559,521
+15,Sun,12/15/2024,4:25PM,Denver Broncos,Indianapolis Colts,31,13,193,310
+15,Sun,12/15/2024,4:25PM,Arizona Cardinals,New England Patriots,30,17,395,311
+15,Sun,12/15/2024,4:25PM,Philadelphia Eagles,Pittsburgh Steelers,27,13,401,163
+15,Sun,12/15/2024,4:25PM,Tampa Bay Buccaneers,Los Angeles Chargers,40,17,506,206
+15,Sun,12/15/2024,8:20PM,Green Bay Packers,Seattle Seahawks,30,13,369,208
+15,Mon,12/16/2024,8:00PM,Minnesota Vikings,Chicago Bears,30,12,329,284
+15,Mon,12/16/2024,8:30PM,Atlanta Falcons,Las Vegas Raiders,15,9,261,249
+16,Thu,12/19/2024,8:15PM,Los Angeles Chargers,Denver Broncos,34,27,380,355
+16,Sat,12/21/2024,1:00PM,Kansas City Chiefs,Houston Texans,27,19,375,311
+16,Sat,12/21/2024,4:30PM,Baltimore Ravens,Pittsburgh Steelers,34,17,418,315
+16,Sun,12/22/2024,1:00PM,Atlanta Falcons,New York Giants,34,7,329,234
+16,Sun,12/22/2024,1:00PM,Carolina Panthers,Arizona Cardinals,36,30,392,382
+16,Sun,12/22/2024,1:00PM,Detroit Lions,Chicago Bears,34,17,475,382
+16,Sun,12/22/2024,1:00PM,Cincinnati Bengals,Cleveland Browns,24,6,326,273
+16,Sun,12/22/2024,1:00PM,Indianapolis Colts,Tennessee Titans,38,30,458,307
+16,Sun,12/22/2024,1:00PM,Los Angeles Rams,New York Jets,19,9,242,321
+16,Sun,12/22/2024,1:00PM,Washington Commanders,Philadelphia Eagles,36,33,368,338
+16,Sun,12/22/2024,4:05PM,Minnesota Vikings,Seattle Seahawks,27,24,298,361
+16,Sun,12/22/2024,4:25PM,Buffalo Bills,New England Patriots,24,21,324,379
+16,Sun,12/22/2024,4:25PM,Las Vegas Raiders,Jacksonville Jaguars,19,14,314,308
+16,Sun,12/22/2024,4:25PM,Miami Dolphins,San Francisco 49ers,29,17,381,374
+16,Sun,12/22/2024,8:20PM,Dallas Cowboys,Tampa Bay Buccaneers,26,24,317,410
+16,Mon,12/23/2024,8:15PM,Green Bay Packers,New Orleans Saints,34,0,404,196
+17,Wed,12/25/2024,1:00PM,Kansas City Chiefs,Pittsburgh Steelers,29,10,389,364
+17,Wed,12/25/2024,4:30PM,Baltimore Ravens,Houston Texans,31,2,432,211
+17,Thu,12/26/2024,8:15PM,Seattle Seahawks,Chicago Bears,6,3,265,179
+17,Sat,12/28/2024,1:00PM,Los Angeles Chargers,New England Patriots,40,7,428,181
+17,Sat,12/28/2024,4:30PM,Cincinnati Bengals,Denver Broncos,30,24,499,329
+17,Sat,12/28/2024,8:10PM,Los Angeles Rams,Arizona Cardinals,13,9,257,396
+17,Sun,12/29/2024,1:00PM,Buffalo Bills,New York Jets,40,14,348,281
+17,Sun,12/29/2024,1:00PM,Tampa Bay Buccaneers,Carolina Panthers,48,14,551,204
+17,Sun,12/29/2024,1:00PM,New York Giants,Indianapolis Colts,45,33,389,446
+17,Sun,12/29/2024,1:00PM,Philadelphia Eagles,Dallas Cowboys,41,7,376,268
+17,Sun,12/29/2024,1:00PM,Jacksonville Jaguars,Tennessee Titans,20,13,295,337
+17,Sun,12/29/2024,1:00PM,Las Vegas Raiders,New Orleans Saints,25,10,388,269
+17,Sun,12/29/2024,4:05PM,Miami Dolphins,Cleveland Browns,20,3,280,276
+17,Sun,12/29/2024,4:25PM,Minnesota Vikings,Green Bay Packers,27,25,441,271
+17,Sun,12/29/2024,8:20PM,Washington Commanders,Atlanta Falcons,30,24,412,337
+17,Mon,12/30/2024,8:15PM,Detroit Lions,San Francisco 49ers,40,34,439,475
+18,Sat,1/4/2025,4:30PM,Baltimore Ravens,Cleveland Browns,35,10,437,230
+18,Sat,1/4/2025,8:00PM,Cincinnati Bengals,Pittsburgh Steelers,19,17,314,193
+18,Sun,1/5/2025,1:00PM,Carolina Panthers,Atlanta Falcons,44,38,425,537
+18,Sun,1/5/2025,1:00PM,New England Patriots,Buffalo Bills,23,16,309,259
+18,Sun,1/5/2025,1:00PM,Chicago Bears,Green Bay Packers,24,22,224,367
+18,Sun,1/5/2025,1:00PM,Indianapolis Colts,Jacksonville Jaguars,26,23,429,319
+18,Sun,1/5/2025,1:00PM,Washington Commanders,Dallas Cowboys,23,19,269,378
+18,Sun,1/5/2025,1:00PM,Houston Texans,Tennessee Titans,23,14,374,314
+18,Sun,1/5/2025,1:00PM,Tampa Bay Buccaneers,New Orleans Saints,27,19,395,292
+18,Sun,1/5/2025,1:00PM,Philadelphia Eagles,New York Giants,20,13,303,238
+18,Sun,1/5/2025,4:25PM,Arizona Cardinals,San Francisco 49ers,47,24,393,436
+18,Sun,1/5/2025,4:25PM,Denver Broncos,Kansas City Chiefs,38,0,479,98
+18,Sun,1/5/2025,4:25PM,New York Jets,Miami Dolphins,32,20,375,334
+18,Sun,1/5/2025,4:25PM,Los Angeles Chargers,Las Vegas Raiders,34,20,473,264
+18,Sun,1/5/2025,4:25PM,Seattle Seahawks,Los Angeles Rams,30,25,336,403
+18,Sun,1/5/2025,8:20PM,Detroit Lions,Minnesota Vikings,31,9,394,262
+19,Sat,1/11/2025,4:30PM,Houston Texans,Los Angeles Chargers,32,12,429,261
+19,Sat,1/11/2025,8:00PM,Baltimore Ravens,Pittsburgh Steelers,28,14,464,280
+19,Sun,1/12/2025,1:00PM,Buffalo Bills,Denver Broncos,31,7,471,224
+19,Sun,1/12/2025,4:30PM,Philadelphia Eagles,Green Bay Packers,22,10,290,302
+19,Sun,1/12/2025,8:00PM,Washington Commanders,Tampa Bay Buccaneers,23,20,350,284
+19,Mon,1/13/2025,8:00PM,Los Angeles Rams,Minnesota Vikings,27,9,292,269
+20,Sat,1/18/2025,4:30PM,Kansas City Chiefs,Houston Texans,23,14,212,336
+20,Sat,1/18/2025,8:00PM,Washington Commanders,Detroit Lions,45,31,481,521
+20,Sun,1/19/2025,3:00PM,Philadelphia Eagles,Los Angeles Rams,28,22,350,402
+20,Sun,1/19/2025,6:30PM,Buffalo Bills,Baltimore Ravens,27,25,273,416
+21,Sun,1/26/2025,3:00PM,Philadelphia Eagles,Washington Commanders,55,23,459,350
+21,Sun,1/26/2025,6:30PM,Kansas City Chiefs,Buffalo Bills,32,29,368,374
