@@ -1,0 +1,1500 @@
+Temperature,Chirps,Humidity_%,Wind_Speed_mph,Barometric_Pressure_hPa,Time_of_Day,Weather_Condition,Moon_Phase
+88.59999847,19,60.0,1.3,1008.4,Dusk,Clear,Waxing Crescent
+71.59999847,16,65.0,0.4,1013.6,Dusk,Overcast,New Moon
+93.30000305,22,54.3,4.8,1005.7,Evening,Partly Cloudy,Full Moon
+84.30000305,17,61.4,6.6,1009.9,Night,Partly Cloudy,Full Moon
+80.59999847,19,69.4,1.6,1017.6,Dusk,Clear,Waning Gibbous
+75.19999695,19,69.0,6.6,1009.6,Night,Overcast,Waxing Crescent
+69.69999695,17,71.0,3.2,1014.1,Night,Overcast,Waning Gibbous
+82,18,57.2,0.2,1008.7,Dusk,Partly Cloudy,Waxing Crescent
+69.40000153,15,71.2,1.9,1009.9,Evening,Partly Cloudy,First Quarter
+83.30000305,18,60.3,1.2,1012.0,Early Morning,Overcast,Waxing Crescent
+79.59999847,16,60.8,5.2,1010.5,Dusk,Partly Cloudy,Full Moon
+82.59999847,16,67.2,3.3,1010.4,Night,Clear,Waxing Gibbous
+80.59999847,19,66.9,2.1,1006.4,Dusk,Overcast,Waning Gibbous
+83.5,17,62.7,8.6,1013.9,Night,Clear,Full Moon
+76.30000305,17,68.7,3.1,1016.4,Night,Partly Cloudy,Last Quarter
+62,13,59.3,0.6,1024.8,Evening,Clear,Waxing Crescent
+65,15,69.4,4.6,1017.5,Evening,Partly Cloudy,Last Quarter
+76,16,60.4,1.2,1010.8,Evening,Clear,Waxing Crescent
+81,16,60.0,1.2,1007.8,Night,Clear,Full Moon
+66,16,64.1,12.3,1017.0,Night,Partly Cloudy,First Quarter
+74,17,63.5,3.9,1013.2,Night,Overcast,Waxing Gibbous
+68,16,71.2,3.1,1019.3,Night,Overcast,New Moon
+85,21,59.2,0.5,1008.0,Evening,Partly Cloudy,Waxing Gibbous
+66,17,76.3,11.7,1017.9,Dusk,Partly Cloudy,Waxing Crescent
+75,19,70.9,0.5,1012.5,Night,Overcast,First Quarter
+71,17,65.8,2.2,1020.3,Dusk,Overcast,Waxing Gibbous
+75,19,65.1,4.5,1010.1,Evening,Overcast,Waning Crescent
+84,18,64.0,1.7,1011.8,Evening,Clear,Waxing Gibbous
+86,17,66.9,0.2,1009.9,Dusk,Clear,Waning Gibbous
+80,20,67.2,4.4,1012.5,Dusk,Clear,Waning Crescent
+89,21,61.6,2.1,1012.2,Dusk,Partly Cloudy,Waning Gibbous
+90,18,55.5,5.2,1010.1,Night,Clear,New Moon
+81,18,60.1,7.9,1012.8,Dusk,Clear,Waning Crescent
+62,13,69.8,2.5,1018.4,Night,Clear,Waning Crescent
+90,18,62.3,0.4,1003.0,Night,Clear,Waxing Crescent
+83,16,68.3,0.7,1008.0,Evening,Clear,Last Quarter
+85,17,63.0,0.0,1009.0,Evening,Partly Cloudy,Full Moon
+63,14,59.4,20,1020.1,Evening,Overcast,Waning Crescent
+70,18,69.4,13.9,1016.6,Evening,Overcast,New Moon
+74,16,64.9,3.5,1012.3,Evening,Overcast,First Quarter
+85,21,67.5,7.6,1011.2,Dusk,Clear,Waxing Gibbous
+74,17,57.6,3.4,1017.4,Evening,Clear,Waxing Crescent
+69,15,61.8,3.0,1016.7,Early Morning,Clear,Waning Gibbous
+78,16,63.6,4.5,1015.1,Evening,Partly Cloudy,Waxing Crescent
+73,16,70.9,3.3,1013.8,Dusk,Overcast,Waxing Gibbous
+85,19,59.9,1.7,1009.9,Dusk,Clear,Waning Gibbous
+83,19,61.9,3.1,1013.7,Evening,Overcast,New Moon
+74,16,62.4,10.7,1010.0,Dusk,Clear,Full Moon
+81,16,63.5,3.2,1012.1,Evening,Overcast,Waxing Gibbous
+66,16,67.6,4.0,1013.7,Evening,Partly Cloudy,Full Moon
+89,21,67.8,0.4,1005.5,Evening,Partly Cloudy,New Moon
+68,15,73.7,4.1,1015.2,Evening,Overcast,Waning Crescent
+88,18,56.3,0.0,1008.1,Dusk,Clear,New Moon
+90,21,63.7,0.6,1005.1,Dusk,Partly Cloudy,Waning Gibbous
+78,19,70.5,7.9,1008.9,Night,Clear,Waxing Gibbous
+65,15,66.1,3.3,1013.6,Night,Overcast,First Quarter
+83,18,64.9,0.7,1009.6,Night,Clear,Last Quarter
+65,16,75.0,1.6,1016.8,Early Morning,Overcast,Waxing Gibbous
+88,19,60.1,0.5,1014.3,Night,Partly Cloudy,Waxing Gibbous
+85,21,65.8,1.7,1016.4,Night,Clear,Waxing Gibbous
+88,20,63.9,1.6,1009.4,Night,Partly Cloudy,Waning Gibbous
+82,17,59.7,15.9,1008.5,Evening,Clear,Waxing Crescent
+76,17,66.8,3.5,1011.1,Early Morning,Clear,Waxing Crescent
+64,14,64.9,6.2,1014.7,Evening,Overcast,Waxing Crescent
+78,17,59.9,1.2,1014.7,Night,Clear,Waxing Gibbous
+81,19,62.6,4.4,1012.1,Evening,Partly Cloudy,Waxing Crescent
+62,15,68.6,1.5,1014.4,Evening,Partly Cloudy,Full Moon
+79,16,60.4,4.4,1011.1,Evening,Overcast,First Quarter
+72,16,63.2,3.2,1012.2,Dusk,Partly Cloudy,Waxing Gibbous
+69,16,62.1,4.3,1016.5,Evening,Partly Cloudy,Waxing Gibbous
+70,16,59.4,12.9,1014.1,Night,Overcast,Waxing Crescent
+77,18,63.5,3.9,1016.7,Dusk,Clear,Full Moon
+67,16,68.1,0.1,1017.4,Dusk,Partly Cloudy,Waxing Crescent
+68,16,59.3,3.4,1016.8,Night,Partly Cloudy,Waning Crescent
+73,17,64.0,4.7,1014.6,Night,Clear,Last Quarter
+83,16,62.7,4.8,1015.9,Evening,Overcast,Waxing Gibbous
+84,20,64.7,0.6,1009.5,Evening,Overcast,Waning Gibbous
+74,18,73.9,3.8,1011.3,Night,Overcast,Last Quarter
+86,17,63.0,9.1,1006.4,Night,Partly Cloudy,Waning Crescent
+74,16,64.7,4.1,1015.6,Night,Overcast,Waning Crescent
+69,16,64.7,0.3,1013.1,Evening,Partly Cloudy,Waning Gibbous
+79,18,61.8,0.6,1015.2,Dusk,Overcast,First Quarter
+78,19,64.4,2.1,1011.0,Evening,Partly Cloudy,New Moon
+80,17,64.1,9.4,1014.5,Evening,Overcast,New Moon
+66,17,72.8,1.9,1011.7,Dusk,Partly Cloudy,Full Moon
+73,16,65.5,12.3,1007.7,Evening,Overcast,Waxing Gibbous
+63,15,65.6,2.7,1016.8,Evening,Overcast,Last Quarter
+63,14,67.1,10.1,1010.9,Early Morning,Overcast,New Moon
+77,19,69.7,4.4,1010.2,Dusk,Partly Cloudy,First Quarter
+78,19,66.5,1.2,1010.7,Evening,Partly Cloudy,Waning Gibbous
+63,14,64.0,1.3,1021.9,Early Morning,Partly Cloudy,Full Moon
+69,17,69.7,5.5,1011.9,Dusk,Partly Cloudy,Waxing Gibbous
+87,20,57.6,4.2,1005.2,Night,Clear,Waxing Gibbous
+76,19,68.6,1.1,1009.2,Evening,Clear,Waxing Gibbous
+71,17,63.6,1.8,1014.7,Night,Overcast,Waxing Crescent
+71,17,67.0,1.5,1012.4,Evening,Partly Cloudy,Last Quarter
+82,20,58.7,0.3,1013.8,Night,Overcast,Waxing Gibbous
+68,16,72.8,7.6,1018.2,Night,Clear,New Moon
+86,19,59.2,1.9,1012.3,Evening,Partly Cloudy,New Moon
+84,19,66.8,0.4,1005.8,Early Morning,Overcast,Waning Crescent
+71,17,65.5,5.3,1011.1,Early Morning,Partly Cloudy,Waning Crescent
+66,16,60.8,3.6,1016.9,Evening,Clear,Waxing Crescent
+82,17,61.4,5.6,1014.1,Evening,Overcast,Last Quarter
+87,20,59.3,1.6,1012.4,Evening,Partly Cloudy,Full Moon
+77,17,59.8,4.8,1017.6,Evening,Clear,Waxing Gibbous
+69,15,71.9,2.7,1017.3,Night,Overcast,Waning Crescent
+75,17,62.2,6.3,1010.2,Dusk,Clear,Last Quarter
+78,16,62.1,3.5,1009.7,Evening,Overcast,Waning Gibbous
+67,17,62.3,1.6,1017.6,Night,Partly Cloudy,Full Moon
+63,15,68.8,0.9,1018.1,Dusk,Overcast,First Quarter
+67,17,70.6,1.3,1020.0,Evening,Overcast,Full Moon
+88,20,68.8,1.4,1008.4,Evening,Partly Cloudy,New Moon
+84,18,61.4,0.2,1008.8,Dusk,Partly Cloudy,First Quarter
+90,19,55.7,0.4,1004.7,Dusk,Partly Cloudy,Waning Crescent
+65,15,64.4,13.5,1016.4,Evening,Partly Cloudy,Waxing Crescent
+85,19,63.8,0.3,1007.3,Night,Clear,First Quarter
+88,19,63.8,1.4,1012.2,Early Morning,Clear,Last Quarter
+79,17,57.8,1.0,1008.5,Evening,Partly Cloudy,Waning Crescent
+70,16,64.9,2.2,1018.3,Evening,Clear,Waxing Crescent
+76,16,66.7,0.9,1012.0,Night,Clear,Waxing Gibbous
+84,18,62.6,0.0,1011.4,Evening,Overcast,Waning Crescent
+87,19,60.5,4.9,1011.5,Night,Partly Cloudy,Waxing Crescent
+69,16,63.4,6.2,1008.5,Night,Overcast,Waxing Gibbous
+83,17,57.3,4.2,1012.3,Early Morning,Clear,Waxing Crescent
+63,15,75.4,3.6,1018.5,Night,Partly Cloudy,Waning Crescent
+89,17,63.7,4.8,1012.0,Early Morning,Partly Cloudy,Waning Crescent
+72,18,67.7,2.3,1014.3,Evening,Partly Cloudy,New Moon
+81,17,71.2,7.2,1015.4,Evening,Clear,Full Moon
+78,16,57.3,0.8,1009.8,Evening,Partly Cloudy,Full Moon
+78,19,67.0,4.0,1015.7,Evening,Clear,Waning Crescent
+85,17,58.9,4.4,1012.2,Night,Partly Cloudy,Last Quarter
+62,15,68.1,11.6,1014.6,Night,Overcast,New Moon
+62,14,65.4,1.6,1017.6,Early Morning,Partly Cloudy,New Moon
+68,17,65.1,2.1,1012.0,Dusk,Partly Cloudy,Waning Crescent
+86,19,56.8,0.9,1006.1,Evening,Partly Cloudy,Waning Crescent
+64,14,71.3,0.1,1013.9,Night,Clear,First Quarter
+89,18,59.7,2.1,1009.3,Dusk,Clear,Waning Crescent
+84,18,67.4,0.7,1008.9,Early Morning,Partly Cloudy,Full Moon
+80,18,59.5,2.6,1013.2,Evening,Clear,Last Quarter
+84,16,62.9,5.5,1014.1,Dusk,Clear,Full Moon
+63,16,70.4,1.7,1010.8,Night,Partly Cloudy,New Moon
+72,18,66.0,3.5,1016.4,Early Morning,Partly Cloudy,First Quarter
+87,18,56.4,1.6,1010.5,Night,Partly Cloudy,Waning Crescent
+69,16,74.3,15.8,1012.3,Dusk,Partly Cloudy,Waxing Gibbous
+78,16,65.8,1.5,1009.7,Evening,Partly Cloudy,Last Quarter
+87,19,68.3,4.2,1009.0,Dusk,Clear,First Quarter
+64,15,63.1,8.2,1016.2,Night,Partly Cloudy,Waxing Crescent
+68,16,62.9,5.1,1014.6,Evening,Overcast,First Quarter
+72,16,71.9,1.2,1016.3,Night,Partly Cloudy,Waxing Crescent
+85,19,66.7,7.8,1005.3,Evening,Partly Cloudy,Waning Crescent
+83,20,64.1,0.3,1010.0,Night,Partly Cloudy,Waxing Gibbous
+63,14,68.2,0.4,1013.4,Night,Clear,Waning Crescent
+69,16,68.6,0.1,1017.0,Evening,Clear,Full Moon
+68,15,64.1,1.1,1017.6,Evening,Overcast,First Quarter
+69,16,67.7,8.2,1015.9,Night,Clear,Waning Crescent
+79,16,64.8,2.5,1010.9,Evening,Partly Cloudy,New Moon
+85,19,65.6,1.4,1008.0,Evening,Clear,Waning Crescent
+67,16,78.9,1.4,1012.4,Early Morning,Overcast,Full Moon
+74,17,62.1,20,1014.0,Night,Clear,Waxing Gibbous
+82,16,58.9,1.4,1012.8,Night,Clear,Last Quarter
+77,18,63.9,4.6,1016.2,Night,Clear,Waning Crescent
+63,16,73.6,6.0,1011.0,Dusk,Partly Cloudy,Waxing Gibbous
+81,16,58.5,4.5,1008.0,Night,Overcast,First Quarter
+79,16,56.9,4.2,1007.1,Evening,Partly Cloudy,New Moon
+71,18,61.4,0.4,1011.9,Evening,Overcast,Last Quarter
+65,15,69.0,3.1,1017.4,Early Morning,Overcast,Full Moon
+73,17,67.3,7.0,1011.6,Evening,Partly Cloudy,Waning Gibbous
+82,19,64.7,0.3,1007.7,Night,Clear,Last Quarter
+66,16,75.2,1.8,1014.6,Night,Clear,Full Moon
+63,15,64.5,4.5,1015.8,Night,Overcast,Last Quarter
+71,16,70.3,0.5,1007.8,Dusk,Clear,Waning Gibbous
+67,17,70.6,0.3,1014.3,Night,Overcast,Full Moon
+78,18,63.1,0.2,1010.9,Dusk,Partly Cloudy,Waxing Crescent
+63,15,75.6,0.6,1020.2,Evening,Overcast,Last Quarter
+72,18,61.2,8.7,1011.4,Night,Partly Cloudy,Last Quarter
+84,20,65.9,4.7,1009.4,Dusk,Partly Cloudy,Waxing Gibbous
+71,18,68.2,4.6,1013.1,Evening,Overcast,Waning Gibbous
+75,18,68.5,13.8,1013.9,Early Morning,Partly Cloudy,Waxing Crescent
+70,16,63.5,3.6,1010.8,Dusk,Partly Cloudy,Waxing Gibbous
+82,19,70.2,0.9,1010.5,Night,Overcast,Waxing Gibbous
+85,17,54.7,1.1,1007.2,Night,Overcast,New Moon
+81,18,61.1,17.5,1019.7,Evening,Clear,Waxing Crescent
+63,14,67.8,0.1,1016.0,Night,Clear,Waning Gibbous
+80,16,65.6,0.5,1011.7,Evening,Clear,Waxing Crescent
+67,17,61.3,2.9,1016.2,Dusk,Overcast,Waxing Gibbous
+87,19,62.3,6.1,1009.1,Night,Partly Cloudy,Waning Crescent
+62,15,68.6,20,1016.3,Night,Partly Cloudy,Waxing Crescent
+71,16,57.3,0.3,1014.6,Dusk,Overcast,First Quarter
+64,16,71.8,4.0,1017.3,Evening,Partly Cloudy,Last Quarter
+69,15,71.3,2.4,1014.7,Night,Clear,Waxing Crescent
+72,18,70.2,5.9,1010.4,Night,Clear,Last Quarter
+81,18,60.4,1.7,1011.8,Evening,Partly Cloudy,Waxing Crescent
+75,19,64.7,1.2,1015.4,Early Morning,Overcast,Waning Crescent
+86,19,68.5,0.4,1012.0,Dusk,Partly Cloudy,First Quarter
+82,17,57.2,3.3,1009.5,Evening,Clear,Last Quarter
+65,15,64.4,5.5,1019.5,Night,Overcast,New Moon
+83,16,66.6,1.7,1009.8,Evening,Clear,First Quarter
+66,15,66.0,0.5,1013.9,Night,Partly Cloudy,Waxing Crescent
+81,18,63.5,6.6,1007.3,Night,Overcast,New Moon
+77,18,60.2,4.7,1009.6,Dusk,Partly Cloudy,Full Moon
+81,20,67.4,0.8,1009.9,Dusk,Overcast,Last Quarter
+72,16,71.7,14.3,1016.0,Dusk,Overcast,Waxing Gibbous
+71,16,63.0,0.7,1016.5,Evening,Partly Cloudy,Waxing Crescent
+66,17,70.3,5.6,1014.5,Dusk,Clear,Full Moon
+63,16,65.4,3.7,1017.7,Evening,Clear,Waxing Crescent
+67,15,66.1,4.5,1016.6,Evening,Overcast,Full Moon
+76,19,69.4,3.7,1013.5,Dusk,Partly Cloudy,Waxing Gibbous
+84,19,63.1,1.4,1005.2,Dusk,Partly Cloudy,Last Quarter
+64,14,69.7,4.9,1018.9,Evening,Overcast,Waning Gibbous
+75,16,71.7,0.2,1015.6,Dusk,Clear,Waning Gibbous
+75,16,59.9,4.9,1011.2,Evening,Clear,Last Quarter
+81,18,66.6,6.5,1011.5,Night,Overcast,Waning Gibbous
+65,15,74.6,1.1,1019.0,Evening,Overcast,Waxing Crescent
+84,19,59.7,1.7,1011.9,Evening,Clear,Waxing Crescent
+87,19,59.2,2.9,1009.3,Early Morning,Partly Cloudy,Waning Gibbous
+76,18,64.1,6.8,1007.2,Dusk,Clear,Full Moon
+81,16,63.9,5.7,1015.1,Night,Clear,Waning Crescent
+67,16,62.7,3.5,1016.3,Night,Overcast,Waning Gibbous
+62,15,72.9,0.7,1013.7,Dusk,Partly Cloudy,Full Moon
+82,17,63.7,1.7,1007.1,Dusk,Partly Cloudy,Waning Crescent
+82,20,67.4,1.4,1011.6,Night,Clear,Last Quarter
+78,19,59.9,6.3,1013.0,Night,Partly Cloudy,Waxing Gibbous
+88,19,58.8,0.7,1012.2,Dusk,Clear,Waning Gibbous
+66,15,69.3,4.2,1015.6,Dusk,Overcast,Waning Crescent
+62,16,74.6,3.8,1016.7,Evening,Partly Cloudy,Last Quarter
+90,18,56.4,3.6,1010.0,Night,Partly Cloudy,Waxing Crescent
+86,21,60.1,2.0,1013.1,Evening,Clear,Waning Gibbous
+72,17,71.3,9.9,1016.1,Evening,Overcast,Last Quarter
+89,18,64.2,0.4,1012.2,Evening,Partly Cloudy,First Quarter
+68,15,63.2,5.4,1010.2,Night,Overcast,Waxing Crescent
+83,19,60.2,1.8,1008.1,Evening,Clear,Waxing Gibbous
+65,16,64.8,0.9,1020.3,Early Morning,Clear,Waxing Crescent
+82,18,60.7,2.8,1016.0,Evening,Overcast,New Moon
+75,17,60.7,3.8,1007.8,Evening,Clear,First Quarter
+89,20,63.5,3.9,1013.0,Early Morning,Partly Cloudy,New Moon
+82,19,58.1,1.1,1013.3,Evening,Partly Cloudy,Waning Crescent
+71,16,66.4,13.5,1016.4,Night,Clear,Waning Gibbous
+82,19,60.9,2.3,1007.4,Night,Partly Cloudy,Last Quarter
+87,17,67.4,6.5,1008.2,Dusk,Partly Cloudy,New Moon
+81,19,58.5,3.2,1006.5,Dusk,Overcast,Waxing Crescent
+64,13,65.9,1.3,1021.3,Early Morning,Clear,Last Quarter
+81,16,69.5,6.8,1014.8,Night,Clear,Last Quarter
+76,16,68.6,1.1,1013.9,Early Morning,Partly Cloudy,Waxing Gibbous
+62,16,78.8,7.3,1018.1,Night,Clear,First Quarter
+65,16,77.2,2.6,1017.6,Night,Overcast,Waning Crescent
+80,20,64.1,0.3,1011.6,Evening,Clear,Last Quarter
+89,17,61.9,1.4,1010.4,Dusk,Partly Cloudy,Waning Crescent
+63,14,75.3,2.8,1018.8,Evening,Overcast,Waxing Gibbous
+88,17,59.1,0.0,1006.7,Evening,Partly Cloudy,First Quarter
+80,16,61.6,14.7,1010.4,Dusk,Overcast,New Moon
+79,16,59.4,4.0,1013.9,Early Morning,Partly Cloudy,New Moon
+78,18,63.4,1.1,1013.0,Night,Clear,Waning Gibbous
+68,15,69.3,1.7,1017.2,Night,Overcast,Waning Crescent
+75,18,70.0,0.8,1012.6,Dusk,Overcast,Waning Crescent
+63,16,71.9,6.3,1017.1,Night,Partly Cloudy,Full Moon
+74,16,52.9,3.1,1012.4,Evening,Overcast,Waxing Gibbous
+75,19,64.2,0.2,1018.8,Night,Partly Cloudy,Waxing Crescent
+86,18,62.4,2.0,1006.6,Evening,Partly Cloudy,Waning Gibbous
+72,17,70.8,2.8,1013.3,Early Morning,Overcast,Full Moon
+69,17,69.4,0.3,1010.2,Night,Clear,Full Moon
+79,19,63.7,4.3,1012.9,Evening,Overcast,Last Quarter
+66,15,69.8,2.4,1018.5,Night,Partly Cloudy,Last Quarter
+66,17,66.9,11.8,1024.0,Dusk,Overcast,Last Quarter
+68,17,63.1,4.6,1019.2,Early Morning,Clear,Waning Crescent
+74,18,67.4,6.0,1013.5,Evening,Partly Cloudy,New Moon
+62,15,64.4,11.9,1014.1,Evening,Clear,First Quarter
+73,18,62.3,4.2,1013.0,Dusk,Clear,New Moon
+78,19,64.4,2.0,1008.6,Evening,Partly Cloudy,Full Moon
+77,17,63.4,3.8,1010.4,Night,Partly Cloudy,Waxing Gibbous
+86,21,68.2,2.4,1013.8,Night,Partly Cloudy,Waxing Crescent
+83,19,66.7,17.2,1003.3,Night,Overcast,Waxing Crescent
+71,17,63.4,1.4,1013.4,Dusk,Overcast,First Quarter
+76,19,66.9,0.5,1009.3,Dusk,Clear,Waxing Gibbous
+77,16,63.9,3.2,1011.7,Evening,Overcast,First Quarter
+88,18,59.0,1.5,1008.3,Early Morning,Partly Cloudy,Last Quarter
+88,21,62.7,0.3,1003.6,Early Morning,Clear,Waning Crescent
+66,15,62.9,0.5,1016.5,Night,Overcast,First Quarter
+84,18,62.1,2.8,1008.7,Night,Clear,First Quarter
+62,14,67.9,10.9,1018.6,Dusk,Overcast,Full Moon
+72,16,67.4,4.0,1012.0,Evening,Clear,Full Moon
+80,20,63.2,4.1,1010.6,Evening,Overcast,First Quarter
+85,17,63.7,9.3,1013.7,Evening,Overcast,New Moon
+80,18,63.9,0.2,1010.9,Night,Overcast,Full Moon
+89,21,57.4,2.2,1004.6,Night,Partly Cloudy,Full Moon
+80,20,62.4,1.1,1009.5,Night,Partly Cloudy,Full Moon
+81,19,57.7,0.7,1012.5,Evening,Partly Cloudy,Waxing Gibbous
+77,16,62.5,7.9,1013.8,Evening,Partly Cloudy,Last Quarter
+73,18,68.9,3.3,1015.7,Evening,Partly Cloudy,Waxing Crescent
+88,19,60.5,0.4,1011.4,Evening,Partly Cloudy,Last Quarter
+86,20,62.2,0.7,1015.7,Evening,Partly Cloudy,Waxing Gibbous
+73,16,65.7,2.9,1010.1,Evening,Partly Cloudy,Waning Crescent
+84,17,70.9,2.8,1011.3,Early Morning,Clear,Waning Gibbous
+64,15,71.5,3.6,1017.0,Night,Overcast,Waning Crescent
+79,18,63.8,0.5,1012.2,Dusk,Partly Cloudy,Waning Gibbous
+81,18,63.4,2.0,1008.3,Evening,Clear,Waning Gibbous
+67,15,65.7,2.8,1015.0,Night,Partly Cloudy,Waxing Crescent
+65,16,69.7,1.9,1017.0,Early Morning,Overcast,Waning Gibbous
+76,16,64.2,2.8,1010.7,Evening,Clear,New Moon
+76,18,67.4,2.6,1014.7,Evening,Overcast,First Quarter
+79,17,60.8,0.7,1015.4,Early Morning,Overcast,Full Moon
+69,16,62.9,2.9,1012.8,Evening,Overcast,Full Moon
+63,14,67.6,1.6,1016.7,Dusk,Partly Cloudy,Full Moon
+83,17,63.7,4.7,1006.0,Dusk,Partly Cloudy,Full Moon
+63,14,75.1,6.0,1015.5,Evening,Overcast,New Moon
+85,17,58.9,4.0,1009.1,Night,Partly Cloudy,First Quarter
+89,17,60.7,3.4,1006.8,Night,Clear,New Moon
+78,17,59.9,2.1,1013.2,Dusk,Overcast,Waning Crescent
+69,16,71.5,0.3,1011.3,Dusk,Clear,Waning Gibbous
+76,18,69.7,1.9,1012.7,Early Morning,Partly Cloudy,Waning Gibbous
+78,18,58.5,8.1,1010.8,Night,Overcast,Full Moon
+64,16,66.9,1.1,1015.0,Evening,Clear,Full Moon
+88,18,61.1,4.7,1004.5,Evening,Partly Cloudy,Waning Gibbous
+74,17,56.7,5.1,1010.7,Evening,Overcast,Last Quarter
+67,17,71.4,1.7,1013.6,Night,Clear,Full Moon
+63,14,77.9,0.3,1018.6,Early Morning,Overcast,Full Moon
+85,19,62.0,7.0,1007.9,Evening,Overcast,Full Moon
+67,17,71.8,3.5,1018.6,Dusk,Overcast,Waxing Gibbous
+62,16,68.8,2.1,1016.1,Night,Clear,First Quarter
+88,18,65.4,10.6,1009.2,Evening,Partly Cloudy,Waning Crescent
+67,16,63.8,1.4,1011.3,Evening,Clear,Waxing Crescent
+75,18,63.8,5.4,1011.2,Night,Clear,First Quarter
+84,17,54.8,10.9,1013.1,Dusk,Partly Cloudy,Waning Crescent
+80,20,67.1,8.2,1016.1,Evening,Clear,New Moon
+74,17,63.8,10.5,1017.2,Evening,Partly Cloudy,Waning Crescent
+65,16,70.1,2.8,1015.0,Evening,Clear,Waning Gibbous
+72,17,68.5,1.2,1016.7,Dusk,Overcast,Waning Gibbous
+71,18,68.4,5.7,1010.4,Dusk,Overcast,Last Quarter
+63,13,70.0,0.4,1013.4,Night,Clear,First Quarter
+64,13,58.1,0.0,1017.3,Evening,Partly Cloudy,Full Moon
+75,17,68.3,5.1,1012.3,Dusk,Overcast,Waning Gibbous
+77,18,64.2,0.5,1011.4,Evening,Partly Cloudy,Full Moon
+70,18,65.4,11.3,1010.5,Evening,Clear,Waxing Gibbous
+88,18,64.7,2.4,1008.2,Early Morning,Partly Cloudy,Last Quarter
+80,20,61.9,5.7,1005.2,Night,Clear,Waxing Gibbous
+79,18,61.6,6.2,1008.1,Evening,Overcast,Waning Gibbous
+67,15,71.7,0.3,1017.2,Evening,Overcast,Waxing Gibbous
+87,17,58.2,1.6,1008.6,Evening,Clear,Waxing Gibbous
+89,17,58.4,9.2,1005.4,Evening,Clear,Waning Crescent
+67,16,70.5,3.3,1017.7,Evening,Overcast,Full Moon
+78,17,63.1,6.8,1009.1,Night,Overcast,Waxing Crescent
+78,19,68.3,0.3,1012.9,Early Morning,Clear,Waning Crescent
+89,18,63.9,5.9,1009.4,Night,Partly Cloudy,Waning Gibbous
+75,17,68.9,8.1,1012.9,Early Morning,Partly Cloudy,Waxing Crescent
+62,15,66.8,3.1,1012.9,Night,Partly Cloudy,Waxing Crescent
+67,17,70.4,3.0,1018.8,Night,Clear,New Moon
+64,14,68.3,2.5,1008.0,Night,Partly Cloudy,Last Quarter
+80,19,65.3,1.7,1009.5,Evening,Overcast,Waxing Crescent
+63,13,73.6,3.8,1017.5,Early Morning,Clear,Waxing Gibbous
+66,17,69.1,0.1,1017.0,Evening,Overcast,New Moon
+75,16,64.5,2.3,1013.9,Evening,Clear,First Quarter
+66,16,64.8,6.8,1015.6,Night,Partly Cloudy,Waning Gibbous
+71,18,67.8,17.0,1020.3,Evening,Partly Cloudy,Full Moon
+77,16,62.9,3.6,1016.2,Night,Clear,Last Quarter
+81,16,60.9,1.7,1010.9,Night,Partly Cloudy,Waning Gibbous
+70,16,65.1,1.4,1011.6,Dusk,Overcast,Waning Crescent
+65,16,68.7,7.8,1018.1,Dusk,Partly Cloudy,New Moon
+79,19,54.7,3.3,1008.8,Dusk,Clear,Full Moon
+88,17,61.5,10.2,1013.2,Night,Clear,Waxing Gibbous
+83,17,65.5,3.7,1011.5,Dusk,Clear,Waxing Gibbous
+80,19,65.8,4.5,1007.7,Dusk,Clear,Waning Gibbous
+79,19,61.5,1.0,1018.0,Dusk,Overcast,Waxing Crescent
+83,19,62.7,9.8,1005.6,Night,Overcast,Waxing Gibbous
+67,16,65.3,1.6,1016.7,Evening,Partly Cloudy,Waning Gibbous
+84,19,61.0,8.6,1012.9,Evening,Overcast,Waning Crescent
+80,18,63.8,0.9,1008.9,Evening,Clear,Waxing Gibbous
+83,19,62.8,3.2,1010.1,Evening,Overcast,Last Quarter
+84,20,62.2,1.0,1012.2,Evening,Clear,Waning Crescent
+82,19,54.1,1.6,1008.7,Night,Partly Cloudy,Waning Crescent
+87,18,54.4,1.7,1010.6,Dusk,Partly Cloudy,First Quarter
+78,17,68.1,4.1,1010.2,Dusk,Clear,Waxing Crescent
+71,17,72.2,5.8,1012.7,Evening,Overcast,Waxing Gibbous
+68,17,69.9,1.0,1015.8,Evening,Clear,Waning Crescent
+87,19,60.8,3.0,1009.0,Evening,Clear,Full Moon
+75,19,62.8,2.8,1012.5,Night,Partly Cloudy,First Quarter
+68,16,68.7,0.6,1015.9,Dusk,Overcast,Full Moon
+87,18,62.0,2.0,1007.2,Evening,Partly Cloudy,Waning Crescent
+77,16,52.5,1.0,1008.8,Night,Clear,New Moon
+80,19,67.3,3.2,1013.1,Dusk,Clear,First Quarter
+64,15,75.1,4.1,1019.2,Evening,Clear,New Moon
+73,16,66.4,4.7,1020.0,Evening,Partly Cloudy,New Moon
+62,14,74.1,1.3,1014.8,Evening,Overcast,New Moon
+72,16,69.0,0.1,1019.2,Dusk,Clear,Last Quarter
+86,19,64.6,3.3,1008.6,Evening,Partly Cloudy,Waning Gibbous
+90,19,55.1,6.3,1011.8,Night,Clear,Waning Gibbous
+87,21,66.2,7.3,1010.5,Evening,Partly Cloudy,Waning Gibbous
+85,19,65.1,19.6,1010.4,Evening,Partly Cloudy,Last Quarter
+62,14,63.2,4.3,1018.8,Dusk,Overcast,Full Moon
+85,17,62.9,0.3,1005.5,Dusk,Overcast,First Quarter
+84,17,61.2,0.5,1007.7,Dusk,Partly Cloudy,Waning Crescent
+73,18,64.3,0.6,1015.4,Dusk,Partly Cloudy,Last Quarter
+77,16,65.1,3.2,1013.2,Evening,Partly Cloudy,Last Quarter
+81,16,66.2,6.0,1011.4,Night,Overcast,Waxing Gibbous
+83,16,59.1,1.9,1009.8,Dusk,Partly Cloudy,Full Moon
+81,17,61.2,2.3,1011.2,Evening,Partly Cloudy,Waxing Crescent
+79,17,57.2,5.1,1017.3,Evening,Overcast,Waxing Gibbous
+62,15,67.1,0.0,1017.3,Evening,Overcast,Last Quarter
+75,18,66.7,1.6,1010.5,Night,Overcast,First Quarter
+65,15,66.3,4.8,1019.9,Evening,Clear,Last Quarter
+62,14,72.0,4.7,1016.4,Evening,Overcast,Waxing Gibbous
+62,15,67.7,6.2,1019.1,Evening,Overcast,Waxing Gibbous
+70,18,63.3,4.6,1012.4,Evening,Overcast,Waning Crescent
+73,16,67.9,6.4,1012.9,Night,Clear,Last Quarter
+73,17,64.8,1.4,1012.1,Evening,Clear,Last Quarter
+80,20,64.9,18.7,1010.4,Evening,Partly Cloudy,Last Quarter
+76,16,57.3,1.8,1011.3,Night,Overcast,Waxing Crescent
+81,19,65.9,4.4,1012.6,Dusk,Overcast,New Moon
+86,19,56.3,4.2,1008.0,Early Morning,Partly Cloudy,Last Quarter
+71,17,68.0,1.0,1015.0,Night,Overcast,Waxing Gibbous
+65,16,64.7,5.9,1017.0,Evening,Overcast,First Quarter
+89,21,60.9,0.4,1009.4,Evening,Clear,Waxing Crescent
+71,17,69.8,1.7,1010.0,Evening,Clear,Waning Crescent
+81,20,63.1,5.1,1012.3,Evening,Clear,Full Moon
+66,17,74.7,0.1,1017.0,Evening,Clear,First Quarter
+85,21,68.9,2.9,1007.9,Evening,Partly Cloudy,Last Quarter
+84,18,64.7,2.1,1009.7,Dusk,Overcast,Last Quarter
+66,15,62.4,8.6,1018.7,Evening,Partly Cloudy,Last Quarter
+82,19,66.0,1.3,1011.0,Night,Clear,Waxing Crescent
+85,20,64.0,1.8,1006.5,Dusk,Clear,Full Moon
+88,21,59.6,13.5,1006.0,Evening,Partly Cloudy,Last Quarter
+88,17,56.6,7.5,1007.7,Night,Partly Cloudy,Waxing Crescent
+66,15,66.0,1.1,1013.4,Dusk,Partly Cloudy,First Quarter
+82,17,58.0,0.6,1010.7,Evening,Clear,Waning Crescent
+82,17,58.1,4.1,1007.4,Early Morning,Overcast,First Quarter
+88,17,57.6,1.5,1009.2,Evening,Clear,Waning Gibbous
+64,14,72.3,0.9,1015.3,Evening,Overcast,Waning Crescent
+67,17,64.3,5.0,1017.3,Evening,Clear,Waxing Crescent
+85,17,54.5,1.0,1007.9,Dusk,Clear,Full Moon
+85,17,63.2,5.4,1012.9,Night,Overcast,Waxing Crescent
+74,17,62.6,3.1,1012.3,Early Morning,Overcast,New Moon
+89,17,59.7,1.0,1005.6,Evening,Clear,Full Moon
+66,15,68.3,1.2,1015.2,Night,Clear,Waning Crescent
+77,17,65.5,6.7,1011.3,Dusk,Overcast,Waning Gibbous
+74,16,68.4,2.2,1010.1,Night,Clear,Waxing Gibbous
+76,16,65.9,3.0,1009.0,Evening,Clear,Waning Gibbous
+77,16,67.0,3.4,1012.1,Early Morning,Overcast,Waxing Crescent
+67,17,72.6,2.1,1019.2,Dusk,Partly Cloudy,First Quarter
+81,20,63.5,0.6,1009.7,Evening,Clear,Last Quarter
+80,17,57.8,1.3,1011.8,Evening,Partly Cloudy,Waxing Crescent
+89,18,54.4,0.4,1004.2,Evening,Partly Cloudy,Waning Gibbous
+68,17,63.4,3.5,1016.1,Night,Overcast,Waxing Crescent
+88,17,59.3,4.4,1005.8,Evening,Clear,Last Quarter
+89,17,60.3,1.0,1011.9,Evening,Partly Cloudy,Waning Gibbous
+84,17,59.4,7.7,1009.8,Night,Overcast,New Moon
+72,16,71.1,7.2,1015.1,Dusk,Clear,Waning Crescent
+74,18,54.0,2.2,1015.8,Early Morning,Clear,Full Moon
+84,20,67.9,1.3,1016.2,Night,Partly Cloudy,Waxing Crescent
+87,20,55.7,0.7,1014.1,Evening,Partly Cloudy,Waxing Gibbous
+63,14,66.7,0.4,1017.2,Dusk,Clear,First Quarter
+72,18,62.7,2.4,1011.9,Dusk,Partly Cloudy,Waxing Crescent
+75,16,68.7,0.6,1012.8,Dusk,Partly Cloudy,Waxing Crescent
+88,20,61.1,1.5,1007.7,Night,Clear,Last Quarter
+82,18,63.7,0.6,1005.9,Early Morning,Clear,Waxing Crescent
+67,15,66.7,4.2,1015.3,Evening,Overcast,Waxing Gibbous
+80,18,61.9,2.1,1010.3,Night,Clear,Waxing Crescent
+74,16,66.6,0.5,1012.3,Night,Partly Cloudy,Last Quarter
+73,16,64.4,1.3,1015.1,Dusk,Overcast,Full Moon
+78,17,64.9,7.5,1007.6,Night,Partly Cloudy,Waxing Gibbous
+66,15,62.9,5.5,1015.3,Evening,Clear,Waxing Gibbous
+89,18,57.9,2.8,1008.8,Evening,Clear,Waning Gibbous
+90,21,62.9,7.9,1007.9,Evening,Partly Cloudy,First Quarter
+70,17,67.8,5.9,1007.1,Dusk,Clear,New Moon
+65,17,68.9,0.2,1016.9,Night,Overcast,Full Moon
+90,18,56.2,2.1,1005.9,Night,Clear,First Quarter
+66,15,67.0,2.9,1018.2,Dusk,Clear,Waning Gibbous
+62,14,64.3,7.2,1019.6,Night,Clear,Full Moon
+69,15,64.3,7.5,1010.2,Dusk,Clear,Last Quarter
+62,15,73.3,0.2,1019.7,Night,Overcast,First Quarter
+64,16,73.5,4.8,1019.5,Dusk,Partly Cloudy,Full Moon
+77,17,65.2,6.1,1013.8,Evening,Clear,New Moon
+71,18,64.9,3.0,1016.9,Evening,Overcast,Waxing Crescent
+79,16,58.1,0.2,1011.9,Night,Clear,Waning Gibbous
+87,21,66.0,9.0,1013.7,Night,Clear,Waxing Gibbous
+63,16,69.3,7.8,1016.4,Dusk,Clear,Waning Crescent
+80,17,57.1,0.8,1016.6,Early Morning,Clear,Last Quarter
+74,17,65.9,9.9,1015.5,Evening,Clear,Waning Gibbous
+90,20,64.9,0.2,1011.6,Dusk,Clear,Last Quarter
+89,18,64.0,1.3,1010.2,Night,Partly Cloudy,Waxing Crescent
+68,17,67.3,0.9,1015.0,Evening,Partly Cloudy,Waxing Gibbous
+65,17,63.8,2.7,1016.9,Night,Clear,Waxing Gibbous
+83,18,67.7,0.1,1016.2,Evening,Overcast,New Moon
+74,18,66.1,4.3,1013.3,Night,Overcast,Full Moon
+68,15,70.7,1.1,1017.3,Evening,Clear,First Quarter
+71,17,66.2,10.2,1012.9,Night,Overcast,Last Quarter
+75,18,64.3,14.7,1010.2,Dusk,Clear,First Quarter
+67,17,65.6,3.6,1013.1,Dusk,Overcast,First Quarter
+75,16,64.8,1.5,1015.3,Night,Overcast,Waning Gibbous
+76,17,63.3,0.3,1014.9,Dusk,Overcast,Waxing Crescent
+84,17,62.7,2.5,1011.8,Evening,Overcast,Waning Gibbous
+90,22,64.2,1.5,1008.0,Evening,Clear,Waxing Crescent
+83,20,66.6,7.0,1014.4,Night,Clear,Waxing Gibbous
+81,19,65.4,0.4,1008.9,Dusk,Partly Cloudy,Last Quarter
+76,19,59.6,1.2,1012.3,Early Morning,Clear,Last Quarter
+90,21,64.1,3.2,1005.5,Dusk,Clear,First Quarter
+89,17,60.4,6.1,1009.5,Dusk,Clear,Last Quarter
+71,16,62.2,4.1,1017.2,Evening,Partly Cloudy,Waxing Crescent
+68,15,68.2,9.3,1015.2,Evening,Clear,Waxing Crescent
+74,16,71.1,1.6,1010.1,Dusk,Partly Cloudy,New Moon
+76,18,67.7,6.9,1016.1,Evening,Clear,Last Quarter
+77,17,63.2,1.0,1010.7,Dusk,Partly Cloudy,Waning Crescent
+73,17,66.6,3.9,1013.1,Dusk,Partly Cloudy,Waning Crescent
+71,16,61.8,0.3,1016.2,Evening,Clear,Last Quarter
+83,17,64.4,3.0,1016.5,Night,Overcast,New Moon
+72,17,73.2,1.8,1013.6,Evening,Partly Cloudy,Waning Gibbous
+74,17,69.4,2.0,1011.5,Dusk,Partly Cloudy,Waxing Gibbous
+82,16,68.9,1.3,1011.9,Night,Partly Cloudy,Waning Gibbous
+69,16,68.6,14.6,1003.0,Dusk,Overcast,Waxing Gibbous
+84,17,60.6,10.0,1015.8,Dusk,Clear,Last Quarter
+85,21,58.3,7.5,1014.5,Dusk,Overcast,Waning Gibbous
+81,16,64.2,9.8,1006.8,Dusk,Overcast,Waning Gibbous
+74,17,70.3,3.3,1012.0,Dusk,Partly Cloudy,Full Moon
+88,17,60.3,0.2,1009.8,Night,Clear,Waning Crescent
+89,19,69.3,0.9,1008.8,Dusk,Clear,Waning Gibbous
+80,20,66.6,4.9,1012.1,Dusk,Clear,Waning Gibbous
+71,17,70.4,11.4,1013.5,Evening,Clear,Waning Gibbous
+79,16,62.2,0.7,1013.3,Early Morning,Overcast,Waning Crescent
+90,19,58.5,13.9,1007.0,Night,Partly Cloudy,Waxing Gibbous
+62,13,64.5,1.9,1012.2,Night,Partly Cloudy,First Quarter
+78,19,64.9,4.8,1012.3,Evening,Overcast,New Moon
+73,18,67.7,6.6,1016.0,Night,Overcast,Waxing Crescent
+72,17,68.2,5.5,1013.3,Dusk,Partly Cloudy,First Quarter
+82,18,56.0,6.9,1005.1,Night,Overcast,Waning Gibbous
+72,18,63.7,1.1,1014.7,Dusk,Partly Cloudy,Waxing Crescent
+82,16,61.5,2.3,1010.0,Evening,Clear,Last Quarter
+64,16,65.0,3.2,1016.4,Dusk,Partly Cloudy,Waxing Gibbous
+86,20,62.9,7.5,1010.7,Evening,Partly Cloudy,Full Moon
+76,19,67.1,0.7,1012.3,Evening,Overcast,Waxing Crescent
+82,17,54.0,0.4,1009.0,Evening,Overcast,Waning Crescent
+77,16,62.5,4.2,1009.3,Night,Partly Cloudy,First Quarter
+70,17,70.4,14.7,1015.4,Evening,Overcast,Full Moon
+64,16,67.1,0.4,1014.2,Evening,Overcast,Waning Crescent
+62,15,71.4,2.2,1019.2,Evening,Overcast,Waning Crescent
+68,15,67.1,0.7,1015.8,Evening,Clear,Waning Crescent
+79,18,65.8,2.0,1009.7,Evening,Overcast,Full Moon
+69,15,70.6,0.8,1016.8,Night,Partly Cloudy,First Quarter
+71,16,63.2,2.5,1015.0,Dusk,Partly Cloudy,New Moon
+64,14,71.5,0.4,1020.1,Night,Overcast,Last Quarter
+75,17,70.2,3.2,1012.3,Night,Overcast,Last Quarter
+67,15,73.2,11.0,1014.4,Evening,Clear,Waning Crescent
+87,21,61.0,7.7,1012.3,Dusk,Clear,Waxing Crescent
+84,20,67.0,11.9,1009.3,Dusk,Clear,Waxing Gibbous
+80,17,65.9,17.8,1013.7,Evening,Overcast,First Quarter
+89,20,62.5,9.7,1006.8,Early Morning,Clear,Waxing Crescent
+76,16,61.0,1.6,1014.7,Evening,Partly Cloudy,New Moon
+81,20,65.4,3.0,1007.1,Evening,Partly Cloudy,First Quarter
+63,14,71.5,5.7,1019.8,Early Morning,Clear,Waxing Crescent
+81,16,63.9,8.5,1005.3,Night,Partly Cloudy,Last Quarter
+71,16,63.2,2.6,1011.0,Dusk,Partly Cloudy,First Quarter
+67,17,63.7,2.1,1012.3,Evening,Partly Cloudy,Waxing Gibbous
+63,13,72.1,1.3,1017.6,Evening,Partly Cloudy,Full Moon
+64,13,64.5,7.8,1021.7,Night,Clear,First Quarter
+79,18,61.8,5.9,1016.5,Evening,Overcast,Last Quarter
+89,21,60.0,2.3,1008.0,Early Morning,Partly Cloudy,Waning Crescent
+85,20,63.0,6.9,1004.0,Evening,Clear,Waxing Crescent
+84,20,61.1,0.6,1013.6,Night,Overcast,New Moon
+90,20,64.3,0.9,1013.9,Dusk,Clear,Waning Crescent
+86,18,64.7,0.9,1010.6,Evening,Partly Cloudy,Last Quarter
+73,16,63.9,0.1,1012.4,Evening,Overcast,Waning Crescent
+71,16,69.7,3.5,1019.6,Evening,Clear,Full Moon
+77,18,64.7,1.3,1007.8,Evening,Clear,Waxing Gibbous
+82,16,65.3,4.5,1007.5,Evening,Partly Cloudy,New Moon
+67,15,74.1,4.6,1009.5,Evening,Clear,First Quarter
+72,16,65.3,1.2,1013.7,Night,Partly Cloudy,Full Moon
+71,18,63.6,1.7,1015.5,Evening,Partly Cloudy,Full Moon
+64,14,64.6,2.0,1011.3,Dusk,Overcast,Waning Gibbous
+71,18,62.1,1.3,1012.7,Night,Partly Cloudy,Waxing Crescent
+87,18,59.0,1.6,1011.5,Evening,Partly Cloudy,Waxing Gibbous
+90,19,64.0,9.2,1012.6,Night,Partly Cloudy,Waning Gibbous
+66,17,65.9,4.3,1011.4,Early Morning,Partly Cloudy,Last Quarter
+68,17,62.4,3.5,1017.9,Early Morning,Clear,Waning Gibbous
+81,20,63.7,3.1,1009.1,Night,Overcast,Waning Gibbous
+71,16,58.4,7.3,1013.9,Night,Clear,Full Moon
+64,15,70.1,1.2,1017.2,Night,Clear,Waning Gibbous
+73,17,64.2,1.0,1011.8,Night,Partly Cloudy,Waning Gibbous
+80,19,60.3,2.5,1014.4,Dusk,Clear,Waxing Crescent
+76,17,62.0,0.5,1013.0,Night,Overcast,Full Moon
+73,18,59.4,0.7,1016.8,Early Morning,Partly Cloudy,Last Quarter
+70,16,74.9,17.3,1014.0,Dusk,Overcast,First Quarter
+62,15,70.0,4.0,1013.5,Dusk,Overcast,New Moon
+74,17,68.6,5.7,1013.4,Dusk,Clear,Waning Crescent
+88,21,63.3,0.6,1004.0,Evening,Partly Cloudy,Last Quarter
+66,16,64.0,0.0,1017.2,Evening,Overcast,Waning Gibbous
+64,15,76.4,5.7,1014.3,Evening,Clear,New Moon
+66,15,65.5,4.7,1014.1,Evening,Clear,Waxing Crescent
+90,22,57.5,0.7,1011.2,Night,Partly Cloudy,Full Moon
+70,18,62.8,3.0,1015.5,Evening,Overcast,First Quarter
+67,17,63.5,1.8,1020.8,Dusk,Partly Cloudy,New Moon
+65,15,68.9,0.6,1020.8,Night,Overcast,First Quarter
+88,21,66.3,6.3,1012.4,Evening,Partly Cloudy,New Moon
+64,14,66.9,0.5,1015.8,Night,Clear,Waxing Crescent
+80,18,60.1,3.2,1013.0,Evening,Clear,Waxing Gibbous
+72,17,64.3,1.4,1009.9,Night,Overcast,Full Moon
+87,20,57.2,2.2,1006.2,Night,Clear,Full Moon
+76,19,67.0,0.9,1013.6,Dusk,Partly Cloudy,Waxing Gibbous
+67,16,65.1,0.7,1017.8,Evening,Clear,Waning Crescent
+79,17,63.3,4.5,1012.0,Early Morning,Overcast,Waning Crescent
+87,19,62.2,2.9,1010.5,Night,Clear,Full Moon
+83,17,59.1,15.1,1008.0,Evening,Clear,Waxing Crescent
+90,21,64.1,7.6,1002.9,Evening,Partly Cloudy,Last Quarter
+67,15,67.1,5.7,1014.1,Dusk,Clear,First Quarter
+66,17,64.6,12.4,1021.3,Evening,Overcast,Waxing Crescent
+62,16,67.1,0.5,1018.9,Evening,Partly Cloudy,Full Moon
+70,16,69.6,2.6,1010.6,Evening,Clear,Waxing Crescent
+80,16,66.8,16.0,1015.1,Night,Clear,Last Quarter
+75,19,69.9,3.4,1011.2,Evening,Overcast,Last Quarter
+72,18,67.7,7.9,1009.8,Night,Overcast,First Quarter
+85,18,56.9,8.7,1010.4,Evening,Clear,Full Moon
+68,16,66.9,8.1,1014.7,Evening,Overcast,Waxing Gibbous
+86,18,67.0,1.7,1009.1,Evening,Clear,Last Quarter
+77,18,63.1,1.7,1010.5,Night,Partly Cloudy,First Quarter
+74,16,67.6,17.6,1010.0,Dusk,Overcast,First Quarter
+88,21,57.3,2.7,1009.0,Dusk,Partly Cloudy,Waning Gibbous
+71,16,66.7,0.2,1022.1,Dusk,Overcast,Last Quarter
+86,19,59.2,2.5,1011.0,Night,Partly Cloudy,Waxing Crescent
+65,17,71.7,0.5,1013.4,Evening,Overcast,New Moon
+63,15,72.1,3.3,1018.5,Dusk,Clear,Full Moon
+70,18,71.5,4.3,1012.0,Evening,Partly Cloudy,Waning Gibbous
+64,15,71.8,7.4,1011.4,Evening,Overcast,Waning Crescent
+85,19,61.2,2.4,1007.2,Dusk,Overcast,Waxing Gibbous
+85,20,66.2,4.0,1010.0,Night,Overcast,Waning Gibbous
+65,16,68.1,0.7,1015.1,Dusk,Overcast,Last Quarter
+63,13,72.1,0.8,1019.2,Early Morning,Partly Cloudy,Waxing Gibbous
+77,17,57.5,5.0,1013.8,Dusk,Partly Cloudy,New Moon
+78,19,71.6,3.6,1009.6,Night,Partly Cloudy,Waning Crescent
+86,20,56.7,0.6,1003.4,Evening,Clear,Last Quarter
+73,17,68.2,2.8,1010.7,Early Morning,Clear,First Quarter
+67,15,66.9,2.0,1013.8,Night,Partly Cloudy,Last Quarter
+79,19,59.6,4.7,1013.8,Dusk,Partly Cloudy,Waning Gibbous
+75,18,69.8,0.6,1012.4,Evening,Overcast,Full Moon
+71,17,69.4,1.5,1011.0,Night,Overcast,Waxing Gibbous
+77,17,65.9,1.4,1016.4,Evening,Overcast,First Quarter
+80,16,68.3,12.7,1011.0,Evening,Overcast,Waning Gibbous
+78,19,63.1,3.3,1007.2,Evening,Overcast,Last Quarter
+90,19,56.1,3.1,1002.9,Night,Partly Cloudy,New Moon
+85,20,61.6,0.6,1009.9,Night,Clear,Full Moon
+69,15,66.4,1.4,1013.0,Evening,Clear,Full Moon
+68,15,68.2,1.8,1018.7,Evening,Overcast,Waxing Gibbous
+80,18,63.3,1.1,1007.7,Night,Overcast,Full Moon
+75,19,65.6,1.9,1012.1,Evening,Overcast,Waning Gibbous
+74,18,67.2,5.4,1013.1,Dusk,Partly Cloudy,Waxing Gibbous
+87,21,67.5,4.2,1006.9,Night,Clear,Waxing Gibbous
+88,20,60.6,4.6,1010.9,Dusk,Clear,Waxing Crescent
+88,17,56.8,3.3,1011.3,Dusk,Partly Cloudy,New Moon
+88,19,57.7,0.7,1013.2,Dusk,Partly Cloudy,New Moon
+89,18,60.7,7.4,1004.6,Evening,Partly Cloudy,Waxing Crescent
+87,17,60.9,1.0,1006.8,Dusk,Clear,First Quarter
+81,19,59.3,0.4,1013.1,Dusk,Clear,Waning Gibbous
+75,18,63.9,12.0,1015.2,Night,Partly Cloudy,New Moon
+86,21,65.4,1.1,1011.5,Night,Clear,New Moon
+74,18,64.5,9.9,1010.9,Early Morning,Partly Cloudy,Full Moon
+85,18,58.3,9.7,1009.4,Night,Partly Cloudy,Waning Crescent
+74,18,62.6,4.2,1013.5,Evening,Clear,Waxing Crescent
+86,20,67.1,3.1,1016.2,Dusk,Clear,Waxing Gibbous
+63,13,64.5,8.0,1012.1,Evening,Clear,Waxing Gibbous
+84,17,55.3,15.0,1009.2,Night,Overcast,Waxing Crescent
+90,20,60.5,2.5,1006.8,Evening,Clear,Waxing Crescent
+78,18,71.0,3.3,1013.9,Evening,Clear,Full Moon
+80,20,60.8,2.1,1013.3,Evening,Partly Cloudy,Waxing Crescent
+71,17,61.0,3.9,1013.3,Night,Overcast,New Moon
+76,16,63.6,10.5,1011.6,Dusk,Overcast,Full Moon
+75,19,63.4,10.5,1011.5,Evening,Overcast,New Moon
+62,16,64.8,0.6,1017.5,Evening,Overcast,Full Moon
+88,18,62.5,4.5,1008.7,Early Morning,Partly Cloudy,New Moon
+64,14,63.1,0.5,1015.0,Dusk,Overcast,Last Quarter
+88,20,51.9,1.5,1007.4,Night,Partly Cloudy,Waxing Gibbous
+62,14,63.8,2.9,1019.2,Dusk,Clear,Full Moon
+82,19,64.1,6.4,1012.7,Night,Overcast,Waning Crescent
+63,16,68.3,4.5,1015.7,Evening,Clear,Waning Crescent
+89,17,63.0,4.5,1008.0,Dusk,Partly Cloudy,Waxing Crescent
+74,16,67.7,2.4,1011.8,Night,Partly Cloudy,First Quarter
+78,17,60.3,1.5,1011.0,Evening,Clear,Waning Gibbous
+65,15,68.1,5.4,1018.1,Evening,Partly Cloudy,First Quarter
+77,16,62.2,2.6,1010.0,Evening,Partly Cloudy,Waning Crescent
+76,19,63.2,3.7,1012.1,Night,Clear,Waxing Gibbous
+80,18,62.8,0.3,1017.7,Dusk,Clear,New Moon
+85,19,64.0,5.9,1006.4,Dusk,Clear,Full Moon
+72,16,51.6,2.6,1010.9,Night,Partly Cloudy,Last Quarter
+90,21,62.1,5.3,1013.6,Evening,Partly Cloudy,Waxing Crescent
+80,19,60.2,4.3,1013.6,Night,Overcast,First Quarter
+76,16,64.2,0.7,1011.1,Evening,Overcast,First Quarter
+72,18,66.3,1.8,1010.5,Dusk,Partly Cloudy,Waxing Gibbous
+69,16,70.4,0.2,1015.9,Dusk,Partly Cloudy,Last Quarter
+71,16,61.8,0.2,1014.8,Early Morning,Partly Cloudy,Waxing Crescent
+90,21,59.6,7.1,1005.0,Night,Partly Cloudy,First Quarter
+66,15,64.8,3.5,1017.7,Night,Clear,Full Moon
+83,20,57.1,2.9,1015.2,Evening,Partly Cloudy,Waning Crescent
+86,20,64.3,0.0,1003.7,Night,Partly Cloudy,First Quarter
+84,16,61.5,1.3,1013.9,Dusk,Clear,Waning Gibbous
+71,16,60.2,4.3,1010.9,Evening,Partly Cloudy,Waxing Crescent
+85,18,57.0,0.9,1010.4,Dusk,Partly Cloudy,New Moon
+90,18,59.6,3.6,1010.1,Dusk,Clear,First Quarter
+80,20,67.4,0.8,1012.3,Early Morning,Overcast,New Moon
+80,16,67.2,6.9,1008.2,Early Morning,Clear,Waning Crescent
+88,21,58.3,2.6,1007.0,Dusk,Partly Cloudy,First Quarter
+75,17,67.1,0.8,1007.7,Night,Partly Cloudy,First Quarter
+86,18,60.5,2.4,1007.0,Evening,Clear,Last Quarter
+67,15,65.8,0.9,1016.3,Night,Overcast,Last Quarter
+64,14,70.4,0.8,1012.7,Early Morning,Overcast,New Moon
+72,18,70.2,5.6,1011.3,Dusk,Overcast,First Quarter
+68,15,70.9,0.0,1012.9,Early Morning,Overcast,Last Quarter
+89,20,57.1,0.2,1008.4,Evening,Clear,Waning Crescent
+70,16,67.5,3.6,1011.7,Night,Overcast,Waxing Crescent
+80,17,60.3,5.8,1012.5,Early Morning,Clear,Full Moon
+77,17,60.1,1.2,1010.2,Dusk,Overcast,New Moon
+71,16,64.3,0.0,1013.5,Night,Overcast,Waning Gibbous
+76,16,62.5,2.2,1013.5,Evening,Partly Cloudy,Last Quarter
+73,16,60.2,19.2,1012.0,Evening,Clear,Last Quarter
+66,17,63.8,0.8,1014.5,Evening,Partly Cloudy,Full Moon
+68,16,72.5,6.0,1014.8,Evening,Clear,Waxing Crescent
+89,18,59.8,4.8,1005.5,Dusk,Clear,Last Quarter
+75,18,67.1,3.8,1007.7,Night,Clear,First Quarter
+75,16,60.1,6.5,1015.7,Night,Partly Cloudy,Last Quarter
+71,16,68.8,1.9,1015.4,Night,Overcast,Last Quarter
+87,17,63.9,4.3,1008.1,Evening,Clear,First Quarter
+76,18,62.4,0.9,1010.2,Night,Overcast,Full Moon
+75,17,67.4,2.9,1017.9,Night,Overcast,First Quarter
+63,16,67.6,4.3,1014.1,Early Morning,Clear,Full Moon
+70,18,68.2,2.0,1011.7,Evening,Overcast,New Moon
+63,16,69.2,0.4,1015.5,Evening,Overcast,Waning Gibbous
+73,17,61.6,1.0,1018.1,Early Morning,Partly Cloudy,Last Quarter
+85,21,60.2,2.1,1008.9,Dusk,Clear,Full Moon
+75,19,64.9,2.9,1014.3,Evening,Overcast,Full Moon
+69,17,63.8,3.3,1007.5,Night,Partly Cloudy,Waning Crescent
+69,17,63.8,7.9,1009.0,Evening,Partly Cloudy,Waxing Crescent
+82,19,58.0,1.0,1014.5,Night,Partly Cloudy,Last Quarter
+64,16,73.5,0.0,1015.3,Night,Clear,Full Moon
+71,16,71.1,6.9,1016.7,Dusk,Clear,Waning Crescent
+73,17,64.7,3.4,1015.5,Dusk,Overcast,Waxing Gibbous
+65,15,65.3,5.3,1016.0,Night,Clear,Waxing Gibbous
+90,17,59.9,3.9,1010.7,Dusk,Clear,Waxing Crescent
+85,20,67.8,4.4,1007.8,Night,Overcast,New Moon
+74,16,67.1,1.5,1010.9,Night,Overcast,Full Moon
+69,17,55.9,9.9,1015.3,Evening,Clear,First Quarter
+71,17,73.4,2.6,1016.0,Evening,Overcast,Waning Gibbous
+78,17,59.0,0.8,1014.9,Early Morning,Overcast,Waning Crescent
+75,17,64.8,4.5,1013.4,Evening,Clear,Waning Gibbous
+63,14,63.2,0.8,1021.2,Evening,Partly Cloudy,Waning Crescent
+74,16,68.4,0.8,1012.6,Evening,Partly Cloudy,Waning Gibbous
+83,20,60.6,2.4,1012.9,Evening,Overcast,Waxing Gibbous
+81,17,65.1,6.5,1006.8,Evening,Partly Cloudy,Waxing Gibbous
+77,17,70.4,0.6,1018.4,Night,Clear,Last Quarter
+63,13,54.6,7.6,1016.6,Evening,Overcast,Waning Gibbous
+83,19,63.5,3.3,1008.1,Evening,Partly Cloudy,Waxing Crescent
+90,18,59.0,6.7,1007.5,Evening,Clear,Waning Crescent
+75,17,64.9,1.8,1010.7,Evening,Partly Cloudy,Waning Gibbous
+76,19,67.6,8.1,1012.9,Early Morning,Clear,First Quarter
+79,18,67.1,1.6,1011.5,Evening,Overcast,Waning Crescent
+69,17,70.4,1.4,1012.9,Night,Clear,First Quarter
+81,18,57.3,2.2,1005.9,Night,Partly Cloudy,Waxing Crescent
+88,18,63.5,1.5,1010.4,Night,Partly Cloudy,Last Quarter
+86,21,62.0,7.9,1012.9,Evening,Partly Cloudy,Last Quarter
+89,19,64.3,0.5,1013.9,Dusk,Partly Cloudy,Waxing Crescent
+66,17,69.6,0.4,1018.6,Early Morning,Partly Cloudy,New Moon
+75,18,69.5,5.8,1013.5,Dusk,Partly Cloudy,First Quarter
+81,20,72.1,2.0,1014.7,Dusk,Overcast,Full Moon
+72,16,63.8,3.0,1014.4,Dusk,Clear,Waning Gibbous
+64,15,70.7,2.6,1014.3,Early Morning,Overcast,Full Moon
+83,16,59.2,11.9,1010.1,Evening,Overcast,Waning Crescent
+72,17,62.3,3.3,1010.8,Evening,Overcast,Full Moon
+76,17,68.5,1.0,1010.8,Dusk,Partly Cloudy,Waning Gibbous
+85,17,59.0,0.0,1010.9,Evening,Clear,Waning Gibbous
+82,16,60.6,4.7,1014.5,Evening,Partly Cloudy,Full Moon
+65,16,72.7,1.4,1016.2,Dusk,Clear,Waning Gibbous
+79,17,66.5,2.3,1017.5,Dusk,Overcast,Last Quarter
+63,13,69.1,0.3,1014.7,Night,Overcast,Full Moon
+82,19,61.8,6.6,1015.7,Evening,Clear,First Quarter
+72,18,68.0,2.4,1015.0,Evening,Overcast,Waning Crescent
+70,18,67.8,0.2,1015.0,Evening,Clear,Waxing Crescent
+76,19,65.2,2.3,1014.2,Dusk,Clear,First Quarter
+70,17,69.8,2.2,1014.7,Night,Partly Cloudy,Waning Gibbous
+62,13,61.3,1.6,1018.1,Night,Clear,New Moon
+80,18,63.1,3.1,1014.5,Dusk,Partly Cloudy,Last Quarter
+68,17,68.8,5.8,1013.8,Dusk,Partly Cloudy,Waxing Gibbous
+72,16,65.6,2.5,1013.1,Night,Overcast,Waxing Gibbous
+89,17,53.4,1.5,1009.6,Evening,Clear,Waxing Crescent
+75,19,65.9,0.9,1017.3,Night,Overcast,Waxing Gibbous
+69,16,69.8,2.3,1014.4,Dusk,Partly Cloudy,Waxing Crescent
+65,17,66.6,13.9,1017.4,Evening,Overcast,Waning Crescent
+80,18,62.6,5.9,1009.9,Dusk,Partly Cloudy,Waxing Crescent
+72,18,65.3,14.0,1011.4,Night,Clear,New Moon
+73,16,63.9,3.1,1015.0,Dusk,Partly Cloudy,Waxing Gibbous
+73,17,63.7,4.1,1017.1,Evening,Partly Cloudy,Waxing Gibbous
+90,22,65.4,5.2,1008.9,Evening,Clear,Waning Crescent
+74,17,64.0,3.1,1009.6,Evening,Overcast,First Quarter
+75,16,61.1,2.5,1012.3,Night,Overcast,First Quarter
+65,17,71.1,1.4,1016.7,Evening,Partly Cloudy,Waning Crescent
+80,17,68.7,1.9,1011.5,Dusk,Clear,Waning Gibbous
+81,17,63.1,5.1,1009.0,Night,Overcast,Last Quarter
+70,17,69.2,5.8,1018.7,Dusk,Partly Cloudy,Waning Gibbous
+66,15,64.6,0.4,1017.1,Night,Clear,First Quarter
+69,16,67.3,0.5,1015.5,Dusk,Clear,Last Quarter
+78,18,61.6,4.8,1009.0,Evening,Partly Cloudy,Waxing Gibbous
+73,17,64.6,10.6,1012.9,Dusk,Partly Cloudy,Waxing Crescent
+89,17,53.8,1.8,1009.7,Night,Partly Cloudy,Waning Gibbous
+82,18,63.1,3.8,1009.9,Evening,Overcast,Waxing Crescent
+72,16,66.5,1.0,1012.9,Evening,Clear,Waxing Gibbous
+79,18,61.4,3.0,1011.4,Dusk,Overcast,First Quarter
+77,18,59.9,5.5,1011.0,Night,Overcast,Waning Gibbous
+66,15,64.8,2.2,1011.5,Dusk,Clear,Last Quarter
+88,17,53.9,3.1,1009.0,Evening,Partly Cloudy,Waning Gibbous
+70,17,54.1,7.5,1011.3,Evening,Overcast,Last Quarter
+75,17,66.6,1.1,1010.6,Evening,Partly Cloudy,Full Moon
+71,16,63.3,12.9,1016.7,Dusk,Clear,Full Moon
+69,15,62.4,20,1012.7,Evening,Partly Cloudy,Waxing Gibbous
+83,17,62.6,5.9,1013.1,Early Morning,Partly Cloudy,First Quarter
+65,15,71.7,0.7,1017.9,Evening,Overcast,Waxing Gibbous
+89,18,60.7,0.4,1014.2,Evening,Clear,Waxing Crescent
+89,20,59.7,0.8,1003.5,Night,Clear,Full Moon
+64,16,76.0,1.9,1017.6,Night,Partly Cloudy,Waning Gibbous
+75,16,67.6,10.7,1010.8,Dusk,Clear,New Moon
+71,16,62.3,0.2,1011.0,Evening,Partly Cloudy,First Quarter
+68,16,64.4,0.7,1019.2,Night,Partly Cloudy,Waning Crescent
+62,15,69.3,0.4,1013.0,Evening,Partly Cloudy,First Quarter
+66,16,69.2,3.4,1016.6,Dusk,Partly Cloudy,Full Moon
+71,16,70.2,5.9,1016.0,Dusk,Clear,Waning Crescent
+76,16,59.8,4.2,1011.4,Dusk,Overcast,Waxing Gibbous
+90,17,59.2,2.2,1010.9,Night,Clear,Waxing Crescent
+86,20,60.1,1.7,1006.9,Evening,Clear,Full Moon
+84,19,64.2,6.9,1012.7,Night,Overcast,First Quarter
+66,16,59.6,1.1,1018.2,Night,Clear,Waxing Crescent
+80,16,63.5,11.9,1012.2,Early Morning,Partly Cloudy,New Moon
+78,16,59.3,1.5,1016.6,Evening,Partly Cloudy,Waxing Gibbous
+77,18,64.5,3.2,1010.3,Night,Overcast,Waning Crescent
+67,16,58.8,4.8,1008.9,Night,Partly Cloudy,New Moon
+67,17,68.2,0.9,1016.5,Night,Partly Cloudy,New Moon
+64,15,59.0,0.3,1017.9,Night,Overcast,Waning Gibbous
+82,19,63.7,8.1,1010.5,Night,Clear,Last Quarter
+86,20,55.8,9.4,1009.4,Evening,Clear,First Quarter
+86,21,65.9,3.3,1017.1,Night,Clear,Waxing Gibbous
+64,15,71.4,2.7,1015.1,Night,Clear,Waning Gibbous
+75,16,63.0,1.4,1010.4,Early Morning,Overcast,Full Moon
+86,17,62.7,8.4,1005.8,Night,Clear,Full Moon
+83,20,63.9,2.0,1013.3,Dusk,Overcast,Last Quarter
+83,18,56.3,8.2,1010.0,Night,Partly Cloudy,Waxing Gibbous
+84,16,57.1,1.5,1008.9,Night,Partly Cloudy,First Quarter
+86,18,61.7,3.1,1011.3,Night,Clear,Full Moon
+75,16,61.3,9.6,1007.1,Evening,Clear,First Quarter
+69,16,64.8,11.9,1018.3,Dusk,Partly Cloudy,First Quarter
+81,16,61.1,8.5,1006.1,Evening,Partly Cloudy,Full Moon
+79,17,54.7,9.0,1014.3,Early Morning,Partly Cloudy,First Quarter
+82,16,62.0,0.8,1009.5,Night,Overcast,Full Moon
+68,16,63.0,3.6,1012.6,Dusk,Clear,Waning Gibbous
+88,20,67.4,0.6,1011.6,Night,Partly Cloudy,Waning Gibbous
+80,16,64.1,2.6,1014.2,Dusk,Clear,New Moon
+87,21,53.4,10.4,1013.7,Early Morning,Clear,Waxing Gibbous
+66,16,68.2,10.5,1014.6,Early Morning,Overcast,Waning Crescent
+88,19,57.7,8.7,1003.5,Evening,Clear,Last Quarter
+75,17,64.3,11.2,1010.0,Evening,Overcast,New Moon
+82,17,57.9,7.0,1010.5,Dusk,Clear,Last Quarter
+67,15,68.3,2.0,1015.3,Night,Clear,Waxing Gibbous
+85,19,61.0,1.5,1012.9,Night,Partly Cloudy,First Quarter
+77,17,59.3,0.2,1014.3,Evening,Clear,Waning Crescent
+64,14,70.0,5.1,1013.4,Dusk,Overcast,First Quarter
+67,15,64.4,0.1,1017.1,Evening,Overcast,Waxing Gibbous
+77,16,65.0,1.6,1011.5,Night,Overcast,First Quarter
+65,16,68.1,0.5,1014.5,Evening,Partly Cloudy,Waxing Crescent
+87,19,57.3,6.3,1009.0,Evening,Clear,Last Quarter
+78,17,62.7,0.7,1011.8,Evening,Overcast,First Quarter
+67,17,69.4,5.9,1016.8,Dusk,Partly Cloudy,Full Moon
+89,19,59.1,1.4,1001.2,Dusk,Clear,Waxing Gibbous
+69,15,73.2,0.0,1014.9,Evening,Partly Cloudy,New Moon
+62,13,64.6,1.0,1014.7,Night,Partly Cloudy,Last Quarter
+77,16,58.6,0.0,1013.9,Night,Partly Cloudy,Waxing Gibbous
+75,19,68.2,4.2,1013.5,Dusk,Clear,Full Moon
+76,18,64.3,0.5,1013.8,Early Morning,Clear,Full Moon
+88,20,56.6,3.6,1006.1,Night,Clear,Waning Crescent
+66,17,68.6,0.1,1012.9,Night,Partly Cloudy,Waning Gibbous
+82,16,67.6,5.7,1007.6,Night,Clear,Full Moon
+63,13,65.8,7.8,1016.9,Evening,Partly Cloudy,Waxing Gibbous
+79,16,61.1,0.5,1007.9,Night,Overcast,Waxing Crescent
+89,19,54.3,10.9,1009.3,Early Morning,Partly Cloudy,Last Quarter
+68,15,64.1,3.0,1013.4,Early Morning,Partly Cloudy,First Quarter
+62,15,65.7,5.2,1014.6,Evening,Clear,Waxing Gibbous
+75,17,62.1,0.0,1004.9,Dusk,Overcast,Waxing Crescent
+83,20,63.1,3.8,1008.6,Evening,Clear,Waning Gibbous
+82,17,58.0,1.0,1015.3,Night,Overcast,Full Moon
+79,16,62.9,1.4,1012.9,Evening,Clear,Waxing Crescent
+81,18,61.7,5.2,1008.7,Night,Clear,First Quarter
+62,13,70.8,10.2,1022.2,Evening,Partly Cloudy,New Moon
+86,21,59.8,3.9,1007.0,Night,Partly Cloudy,Waning Crescent
+88,21,62.7,5.4,1006.1,Night,Partly Cloudy,Waning Gibbous
+74,18,65.2,3.4,1013.1,Evening,Partly Cloudy,Waxing Crescent
+64,14,71.1,0.1,1015.8,Early Morning,Overcast,First Quarter
+66,17,65.0,3.6,1014.4,Night,Partly Cloudy,Waning Gibbous
+82,19,62.4,0.4,1008.6,Night,Partly Cloudy,Waning Crescent
+73,18,67.9,3.0,1011.4,Dusk,Partly Cloudy,New Moon
+67,15,68.7,2.3,1008.9,Dusk,Partly Cloudy,First Quarter
+87,21,65.5,5.3,1015.7,Evening,Partly Cloudy,First Quarter
+78,16,63.5,16.1,1010.7,Evening,Clear,Waxing Gibbous
+80,17,62.3,5.0,1008.2,Evening,Clear,Full Moon
+83,20,68.9,3.6,1008.7,Dusk,Partly Cloudy,New Moon
+66,15,73.0,5.5,1018.8,Dusk,Partly Cloudy,Waxing Gibbous
+76,16,63.0,1.3,1014.5,Evening,Partly Cloudy,Waxing Crescent
+88,18,60.0,0.5,1010.8,Early Morning,Clear,Waxing Gibbous
+82,17,57.3,1.3,1009.9,Early Morning,Partly Cloudy,Waxing Gibbous
+70,16,68.1,8.9,1016.8,Evening,Clear,First Quarter
+71,16,74.6,0.2,1015.4,Evening,Clear,Last Quarter
+74,16,60.0,8.9,1016.2,Night,Overcast,Waning Crescent
+77,17,61.6,6.8,1010.7,Night,Overcast,Waxing Crescent
+73,16,71.9,2.5,1012.8,Dusk,Overcast,Waning Crescent
+88,21,64.6,4.1,1010.6,Night,Partly Cloudy,Waxing Gibbous
+87,17,62.3,9.0,1008.9,Evening,Partly Cloudy,Last Quarter
+72,16,69.3,1.6,1020.0,Night,Partly Cloudy,Waning Crescent
+77,18,63.2,0.5,1012.5,Evening,Clear,Full Moon
+78,19,65.4,0.5,1008.0,Dusk,Overcast,Waxing Crescent
+89,17,56.7,6.3,1012.7,Evening,Partly Cloudy,Last Quarter
+83,17,62.0,0.7,1012.8,Evening,Clear,Waning Gibbous
+66,15,69.2,2.3,1020.2,Early Morning,Overcast,Waning Gibbous
+70,17,64.2,4.3,1013.9,Dusk,Overcast,Waning Crescent
+77,17,68.3,1.6,1015.1,Dusk,Partly Cloudy,First Quarter
+84,20,61.4,3.6,1013.2,Night,Overcast,Last Quarter
+86,21,59.9,0.3,1013.5,Dusk,Clear,New Moon
+71,18,67.4,2.4,1009.8,Evening,Overcast,Waning Crescent
+86,20,64.1,1.5,1014.0,Evening,Partly Cloudy,Last Quarter
+83,17,60.0,18.5,1004.1,Evening,Overcast,Last Quarter
+90,22,66.0,0.3,1003.7,Early Morning,Clear,New Moon
+83,17,59.7,1.8,1005.3,Night,Clear,Waxing Gibbous
+64,14,63.0,3.9,1018.0,Night,Partly Cloudy,Last Quarter
+71,16,63.6,0.8,1015.0,Dusk,Overcast,Last Quarter
+86,21,64.7,2.2,1007.3,Evening,Clear,First Quarter
+70,17,72.8,0.6,1014.8,Night,Overcast,Last Quarter
+72,16,67.8,0.6,1013.6,Night,Partly Cloudy,Last Quarter
+74,17,62.3,2.2,1011.0,Night,Partly Cloudy,Waning Gibbous
+89,17,60.0,0.0,1011.9,Evening,Clear,Full Moon
+80,16,58.2,1.8,1013.5,Early Morning,Overcast,Waning Crescent
+82,17,61.7,2.6,1009.5,Night,Clear,Full Moon
+85,19,60.4,8.8,1010.3,Dusk,Partly Cloudy,Waxing Crescent
+71,18,65.1,3.5,1010.8,Night,Partly Cloudy,New Moon
+74,17,60.7,2.5,1014.0,Night,Partly Cloudy,Waning Gibbous
+78,19,71.7,1.4,1010.8,Dusk,Overcast,Full Moon
+66,16,67.4,0.3,1011.9,Evening,Clear,New Moon
+63,15,67.0,5.3,1014.5,Dusk,Partly Cloudy,Waxing Crescent
+64,16,70.0,6.1,1017.2,Evening,Overcast,Full Moon
+88,20,60.8,5.4,1011.4,Night,Clear,Waning Crescent
+72,17,64.5,6.1,1015.3,Dusk,Clear,New Moon
+76,19,64.7,0.6,1013.8,Early Morning,Clear,Waning Crescent
+87,20,61.8,1.9,1006.3,Night,Clear,Waxing Gibbous
+72,16,58.9,0.2,1011.2,Evening,Clear,New Moon
+63,13,69.8,1.4,1019.2,Night,Overcast,Waxing Gibbous
+86,17,56.0,2.6,1012.9,Dusk,Partly Cloudy,New Moon
+90,17,57.3,1.9,1013.7,Evening,Clear,Waxing Crescent
+74,17,70.4,12.5,1011.2,Evening,Overcast,Full Moon
+67,16,66.1,0.4,1017.4,Night,Partly Cloudy,Waning Crescent
+69,17,68.4,5.3,1009.9,Evening,Clear,Waning Gibbous
+74,18,60.4,1.5,1004.8,Dusk,Clear,Waxing Crescent
+64,13,69.2,0.4,1016.4,Evening,Clear,Full Moon
+68,16,67.3,3.9,1015.9,Dusk,Overcast,Waxing Gibbous
+64,16,74.3,4.9,1015.0,Dusk,Overcast,First Quarter
+71,17,61.8,4.2,1017.8,Night,Clear,Waxing Crescent
+64,14,66.9,2.5,1014.1,Early Morning,Overcast,Waning Crescent
+88,20,64.1,2.2,1008.0,Early Morning,Partly Cloudy,Full Moon
+90,20,61.3,6.0,1009.5,Evening,Partly Cloudy,New Moon
+84,20,62.5,0.8,1015.8,Dusk,Clear,Last Quarter
+65,16,70.5,0.6,1019.1,Night,Clear,Waxing Crescent
+76,18,70.5,0.4,1010.2,Dusk,Overcast,Full Moon
+75,19,66.1,2.8,1012.4,Night,Clear,New Moon
+89,20,59.3,4.8,1006.8,Early Morning,Clear,Waning Crescent
+87,17,56.2,5.2,1009.8,Night,Clear,Waxing Gibbous
+83,18,72.2,6.8,1010.8,Evening,Overcast,Waning Gibbous
+80,18,61.8,0.2,1013.7,Early Morning,Overcast,Waxing Crescent
+70,18,62.3,1.7,1018.9,Night,Partly Cloudy,Waxing Gibbous
+72,17,66.7,1.9,1014.7,Dusk,Overcast,Last Quarter
+67,15,71.7,1.8,1012.8,Dusk,Overcast,Waning Crescent
+78,19,64.6,0.9,1010.5,Night,Overcast,Waxing Gibbous
+63,16,67.9,3.1,1016.7,Evening,Overcast,Waning Crescent
+81,19,64.3,1.7,1011.1,Evening,Overcast,New Moon
+65,17,66.7,4.2,1017.2,Evening,Overcast,First Quarter
+77,17,64.0,0.3,1010.2,Night,Partly Cloudy,New Moon
+66,15,58.8,0.2,1016.9,Night,Clear,New Moon
+73,18,66.9,1.5,1014.4,Night,Partly Cloudy,First Quarter
+63,15,69.5,6.8,1015.7,Dusk,Overcast,Waxing Gibbous
+76,17,67.1,1.6,1013.5,Night,Overcast,Last Quarter
+71,18,62.2,3.4,1021.5,Dusk,Clear,New Moon
+84,20,59.9,0.5,1008.8,Dusk,Partly Cloudy,First Quarter
+65,16,66.8,2.3,1012.4,Early Morning,Clear,First Quarter
+89,18,66.2,3.8,1012.2,Night,Clear,Waning Crescent
+75,18,65.9,10.4,1013.2,Night,Overcast,Full Moon
+74,17,59.1,5.9,1016.0,Night,Clear,First Quarter
+72,18,63.6,2.1,1011.1,Early Morning,Overcast,New Moon
+72,17,61.0,3.8,1011.2,Dusk,Partly Cloudy,Waning Gibbous
+89,21,56.9,0.9,1010.7,Early Morning,Clear,Waning Gibbous
+87,19,68.9,2.8,1002.7,Evening,Clear,Full Moon
+75,17,66.8,0.6,1013.5,Night,Partly Cloudy,Waning Crescent
+72,18,69.4,0.2,1017.9,Night,Partly Cloudy,Waxing Gibbous
+88,19,57.5,6.5,1010.2,Night,Clear,Waxing Crescent
+84,19,61.9,0.8,1003.5,Night,Partly Cloudy,Waxing Crescent
+71,18,69.7,2.4,1015.1,Evening,Partly Cloudy,Waxing Gibbous
+85,21,62.8,1.0,1003.6,Dusk,Clear,Waxing Crescent
+69,15,66.7,0.9,1017.9,Night,Clear,Waning Crescent
+82,20,62.5,2.3,1010.4,Dusk,Overcast,Waning Crescent
+62,16,71.4,2.4,1019.5,Dusk,Partly Cloudy,Full Moon
+77,18,65.3,4.7,1013.9,Dusk,Clear,Waxing Crescent
+72,17,68.8,0.8,1011.2,Evening,Partly Cloudy,First Quarter
+69,16,68.3,3.8,1010.7,Dusk,Overcast,Waxing Gibbous
+67,17,75.0,2.7,1018.5,Early Morning,Overcast,Waning Crescent
+79,17,65.1,5.2,1009.7,Night,Clear,Waxing Gibbous
+62,15,66.7,8.9,1020.4,Evening,Clear,New Moon
+70,16,65.5,19.0,1014.9,Night,Overcast,New Moon
+67,17,64.6,6.6,1016.8,Night,Clear,Waning Crescent
+82,20,62.0,5.6,1010.9,Night,Partly Cloudy,Waxing Gibbous
+86,21,64.9,4.2,1011.6,Dusk,Partly Cloudy,Full Moon
+85,20,64.8,3.4,1012.8,Evening,Partly Cloudy,Waning Crescent
+90,17,60.1,2.1,1002.4,Night,Partly Cloudy,Waning Crescent
+70,18,67.4,3.9,1014.3,Evening,Overcast,Waning Gibbous
+69,17,64.1,5.6,1014.3,Night,Overcast,Waxing Gibbous
+82,20,64.1,8.5,1009.7,Night,Clear,Waning Gibbous
+87,18,62.2,1.8,1008.5,Night,Partly Cloudy,Waning Gibbous
+72,16,68.0,0.3,1017.3,Night,Clear,First Quarter
+79,16,65.8,0.5,1011.5,Evening,Overcast,Waxing Gibbous
+90,22,61.6,1.5,1003.4,Night,Partly Cloudy,Full Moon
+62,16,73.3,2.4,1017.9,Evening,Clear,Waning Crescent
+68,17,66.3,3.0,1010.7,Evening,Overcast,Waning Gibbous
+68,15,69.8,6.6,1008.2,Early Morning,Clear,Waxing Gibbous
+90,22,64.9,0.3,1006.4,Night,Partly Cloudy,Waxing Crescent
+81,17,65.1,4.8,1012.7,Evening,Clear,New Moon
+67,15,64.4,3.1,1023.0,Dusk,Partly Cloudy,Last Quarter
+88,19,55.4,1.4,1010.6,Dusk,Clear,Waning Gibbous
+65,15,64.9,4.2,1017.4,Evening,Overcast,Waning Crescent
+83,18,57.3,9.1,1011.6,Evening,Partly Cloudy,Waxing Gibbous
+89,21,50.8,5.9,1009.6,Dusk,Partly Cloudy,Full Moon
+67,16,65.4,10.3,1015.9,Night,Partly Cloudy,First Quarter
+84,16,68.4,4.7,1009.3,Night,Clear,First Quarter
+67,17,68.3,1.5,1016.3,Dusk,Partly Cloudy,Waning Gibbous
+62,15,71.3,0.1,1020.4,Evening,Partly Cloudy,First Quarter
+65,15,64.5,0.7,1018.7,Evening,Clear,Last Quarter
+77,16,69.9,11.8,1010.2,Early Morning,Clear,New Moon
+85,21,67.9,2.8,1009.3,Night,Partly Cloudy,Waning Crescent
+64,13,75.8,5.6,1011.5,Early Morning,Overcast,First Quarter
+78,18,66.3,10.2,1007.5,Evening,Clear,Waning Crescent
+66,15,69.4,3.2,1014.7,Evening,Partly Cloudy,Waxing Gibbous
+85,18,59.8,0.2,1010.4,Night,Overcast,Waxing Gibbous
+90,20,61.8,0.9,1003.5,Dusk,Partly Cloudy,Waxing Crescent
+63,14,72.3,2.7,1016.1,Night,Overcast,New Moon
+62,14,71.9,0.6,1015.4,Night,Partly Cloudy,Last Quarter
+85,20,60.2,1.7,1011.8,Early Morning,Overcast,Waxing Crescent
+67,17,70.0,5.4,1021.5,Evening,Partly Cloudy,Full Moon
+74,17,68.7,9.1,1017.4,Night,Partly Cloudy,First Quarter
+76,17,67.4,0.6,1009.2,Evening,Overcast,Waning Gibbous
+67,15,76.5,5.6,1018.5,Dusk,Partly Cloudy,Full Moon
+73,17,61.4,5.0,1015.6,Night,Clear,Waxing Gibbous
+74,17,66.9,3.2,1016.0,Dusk,Partly Cloudy,Full Moon
+80,19,57.4,1.0,1011.7,Night,Clear,Full Moon
+79,19,62.6,4.0,1015.9,Dusk,Overcast,Full Moon
+73,16,61.3,4.7,1015.3,Dusk,Clear,Full Moon
+88,18,49.7,3.7,1009.4,Evening,Partly Cloudy,Last Quarter
+77,16,67.5,2.6,1009.3,Night,Clear,Waning Gibbous
+73,18,61.1,7.5,1013.3,Dusk,Clear,First Quarter
+65,16,65.0,0.6,1021.6,Dusk,Partly Cloudy,Waning Gibbous
+88,17,52.1,1.8,1012.3,Evening,Clear,Waxing Gibbous
+69,16,67.2,0.4,1012.9,Night,Overcast,Waning Gibbous
+66,17,73.8,4.6,1011.7,Evening,Overcast,Waning Gibbous
+85,18,65.8,6.9,1012.2,Dusk,Overcast,Full Moon
+70,16,63.3,1.7,1017.0,Early Morning,Clear,Waxing Gibbous
+65,17,70.6,0.8,1017.8,Night,Overcast,Waxing Crescent
+71,17,58.9,0.5,1017.5,Dusk,Clear,Waning Crescent
+78,16,59.8,0.6,1015.9,Evening,Overcast,Waning Gibbous
+76,16,65.7,5.5,1015.0,Dusk,Clear,First Quarter
+80,16,61.2,0.9,1009.1,Early Morning,Partly Cloudy,Waxing Crescent
+69,17,73.5,5.7,1017.2,Dusk,Clear,New Moon
+74,16,66.2,0.2,1009.8,Dusk,Partly Cloudy,New Moon
+86,21,68.0,5.6,1011.5,Night,Clear,Waxing Gibbous
+81,18,64.6,0.4,1013.8,Night,Partly Cloudy,Waning Gibbous
+70,16,61.8,6.1,1019.2,Night,Overcast,Waxing Crescent
+89,18,64.2,0.1,1011.1,Dusk,Clear,Full Moon
+88,19,64.0,0.0,1013.5,Night,Clear,Waning Crescent
+75,16,60.9,2.3,1016.0,Early Morning,Clear,Waning Gibbous
+85,21,67.2,2.9,1009.6,Evening,Partly Cloudy,Waxing Crescent
+75,19,61.3,2.7,1013.8,Evening,Partly Cloudy,New Moon
+74,17,69.5,1.9,1015.0,Evening,Overcast,Full Moon
+63,15,65.8,1.0,1011.3,Evening,Partly Cloudy,Waxing Gibbous
+85,18,66.8,6.5,1005.0,Early Morning,Partly Cloudy,First Quarter
+83,19,68.8,4.5,1011.0,Evening,Overcast,Waxing Crescent
+70,17,69.9,4.8,1016.5,Early Morning,Overcast,First Quarter
+72,18,76.7,1.7,1017.1,Evening,Partly Cloudy,Waxing Crescent
+64,13,67.9,2.8,1019.4,Night,Overcast,Full Moon
+86,20,62.4,11.5,1004.3,Evening,Partly Cloudy,Waning Crescent
+90,21,58.7,2.4,1008.4,Dusk,Partly Cloudy,Waning Crescent
+89,19,61.5,0.1,1015.9,Night,Clear,Waning Crescent
+73,16,60.6,1.9,1006.4,Night,Clear,Full Moon
+68,16,66.0,0.3,1014.2,Night,Partly Cloudy,Waning Crescent
+67,17,70.0,2.7,1019.6,Evening,Partly Cloudy,New Moon
+82,20,64.7,2.3,1010.7,Early Morning,Partly Cloudy,Waning Crescent
+73,18,64.8,2.5,1016.3,Dusk,Overcast,Full Moon
+72,16,67.5,2.3,1012.7,Evening,Partly Cloudy,Waning Crescent
+84,17,61.9,2.7,1006.4,Evening,Overcast,Waning Crescent
+68,15,59.0,2.8,1016.0,Evening,Partly Cloudy,Last Quarter
+79,16,60.1,15.2,1009.9,Evening,Clear,New Moon
+74,17,68.0,6.6,1015.4,Evening,Overcast,Waning Gibbous
+82,17,59.1,19.3,1013.1,Evening,Clear,Waxing Gibbous
+77,17,64.3,3.6,1016.7,Early Morning,Clear,Full Moon
+66,16,69.9,3.1,1016.9,Dusk,Overcast,Last Quarter
+84,19,54.6,1.2,1007.6,Night,Overcast,New Moon
+62,16,73.6,2.0,1016.6,Evening,Partly Cloudy,Waxing Crescent
+67,16,66.7,2.7,1013.5,Night,Overcast,Waning Gibbous
+90,18,61.2,14.0,1010.7,Dusk,Clear,Waxing Gibbous
+89,20,60.6,20,1009.7,Evening,Clear,Waxing Crescent
+73,18,65.2,3.6,1009.7,Evening,Overcast,Waning Crescent
+82,17,58.9,0.3,1012.1,Night,Overcast,Full Moon
+88,18,55.8,0.9,1010.6,Evening,Partly Cloudy,First Quarter
+76,16,68.2,2.9,1009.8,Dusk,Partly Cloudy,Waxing Gibbous
+79,17,59.4,11.1,1007.1,Evening,Overcast,Last Quarter
+88,18,66.2,0.2,1007.2,Dusk,Partly Cloudy,First Quarter
+86,20,62.5,5.8,1014.7,Night,Partly Cloudy,Waning Gibbous
+90,17,64.6,4.0,1003.4,Night,Partly Cloudy,Full Moon
+75,18,63.6,3.7,1011.2,Evening,Clear,First Quarter
+81,17,63.7,7.0,1013.3,Evening,Overcast,Last Quarter
+65,17,61.3,0.9,1019.1,Evening,Clear,Full Moon
+80,17,63.8,3.2,1009.2,Night,Clear,Waning Crescent
+62,15,69.5,9.1,1015.9,Evening,Partly Cloudy,Waxing Crescent
+81,17,65.9,1.8,1009.4,Night,Clear,Last Quarter
+83,17,67.8,0.6,1008.9,Dusk,Overcast,Waxing Crescent
+66,15,60.2,12.0,1014.9,Early Morning,Partly Cloudy,Waning Crescent
+80,19,66.2,0.5,1010.0,Night,Partly Cloudy,Last Quarter
+82,20,66.0,11.0,1006.2,Dusk,Clear,First Quarter
+75,17,65.7,2.1,1015.3,Night,Clear,Waning Crescent
+82,16,55.6,0.5,1009.9,Evening,Partly Cloudy,Waxing Gibbous
+81,20,72.1,11.1,1009.8,Evening,Overcast,Waning Gibbous
+84,20,63.3,13.6,1009.7,Night,Overcast,New Moon
+88,19,58.2,1.1,1004.2,Evening,Partly Cloudy,Waning Gibbous
+69,16,71.9,3.1,1012.2,Dusk,Partly Cloudy,Last Quarter
+70,18,77.7,10.5,1014.9,Early Morning,Partly Cloudy,Waxing Crescent
+82,17,68.4,1.4,1008.9,Night,Clear,Waning Crescent
+79,18,58.3,5.8,1007.3,Evening,Clear,Full Moon
+90,21,66.0,11.3,1004.3,Evening,Partly Cloudy,Waning Gibbous
+64,14,66.2,6.9,1010.3,Night,Overcast,Full Moon
+63,15,65.1,3.7,1016.5,Night,Overcast,Waning Gibbous
+77,17,63.3,0.2,1012.6,Night,Overcast,Waning Crescent
+73,17,66.4,2.0,1012.0,Night,Partly Cloudy,Waxing Crescent
+87,21,64.5,5.0,1010.9,Night,Clear,Last Quarter
+75,19,66.9,2.6,1010.5,Night,Partly Cloudy,First Quarter
+90,19,57.1,6.4,1003.3,Dusk,Partly Cloudy,Waning Gibbous
+69,15,69.8,11.6,1020.4,Night,Clear,New Moon
+69,17,76.0,4.2,1012.6,Night,Clear,Waning Crescent
+63,16,71.3,0.7,1021.0,Evening,Partly Cloudy,Full Moon
+73,17,71.8,0.7,1019.7,Evening,Clear,Last Quarter
+83,20,64.6,7.0,1003.8,Evening,Clear,Waxing Gibbous
+75,18,68.4,6.1,1018.6,Evening,Partly Cloudy,Last Quarter
+82,18,68.1,3.7,1015.2,Early Morning,Partly Cloudy,Waxing Gibbous
+63,16,65.7,0.6,1018.1,Evening,Partly Cloudy,Waxing Gibbous
+82,20,57.3,1.8,1006.5,Night,Partly Cloudy,Waxing Crescent
+76,17,66.7,1.6,1012.8,Night,Overcast,Waxing Gibbous
+87,17,58.8,5.3,1004.8,Evening,Clear,New Moon
+85,21,71.8,2.5,1012.2,Evening,Overcast,New Moon
+65,16,73.2,1.9,1016.1,Early Morning,Overcast,Waning Gibbous
+72,17,71.9,0.2,1018.6,Dusk,Clear,Waning Crescent
+79,16,70.3,0.6,1009.2,Evening,Overcast,Last Quarter
+85,20,63.8,0.2,1011.2,Dusk,Partly Cloudy,Waning Gibbous
+68,15,69.7,8.4,1014.0,Night,Partly Cloudy,Waning Gibbous
+71,16,63.9,5.3,1014.9,Evening,Clear,Waning Crescent
+87,19,63.3,1.0,1010.0,Dusk,Partly Cloudy,First Quarter
+83,18,61.1,20,1007.5,Early Morning,Clear,Waning Crescent
+89,18,56.0,2.7,1012.5,Evening,Clear,Waxing Crescent
+86,17,59.0,1.3,1011.3,Night,Partly Cloudy,Waxing Gibbous
+83,16,52.1,3.0,1006.6,Evening,Partly Cloudy,Waxing Crescent
+67,16,67.8,0.4,1018.9,Evening,Partly Cloudy,Waxing Crescent
+72,16,61.5,12.1,1016.4,Night,Clear,New Moon
+88,19,67.4,4.3,1011.9,Evening,Partly Cloudy,New Moon
+90,22,60.9,3.9,1009.3,Evening,Clear,Waxing Gibbous
+64,14,72.6,1.3,1012.2,Night,Overcast,Waxing Crescent
+65,16,63.3,0.4,1014.8,Evening,Clear,Last Quarter
+69,17,74.0,0.7,1017.9,Night,Partly Cloudy,First Quarter
+66,17,72.0,2.3,1018.1,Night,Partly Cloudy,First Quarter
+79,19,63.3,1.8,1012.8,Dusk,Partly Cloudy,Last Quarter
+72,18,61.6,2.2,1014.5,Night,Partly Cloudy,First Quarter
+75,18,61.6,0.2,1014.3,Evening,Partly Cloudy,Waxing Gibbous
+82,18,58.9,10.7,1007.1,Evening,Overcast,Waxing Crescent
+89,17,58.3,9.5,1011.9,Evening,Clear,First Quarter
+86,20,60.7,1.1,1007.4,Evening,Clear,Waxing Crescent
+89,19,64.6,2.9,1007.0,Evening,Partly Cloudy,Full Moon
+80,17,59.7,5.9,1014.6,Dusk,Overcast,Waning Crescent
+88,20,62.4,2.0,1010.8,Dusk,Partly Cloudy,Waning Gibbous
+88,21,58.0,4.4,1007.4,Night,Partly Cloudy,Waning Gibbous
+69,16,74.8,0.8,1013.5,Dusk,Overcast,Full Moon
+66,17,69.9,3.1,1014.7,Dusk,Clear,New Moon
+75,16,66.7,4.7,1016.0,Night,Overcast,Waning Crescent
+63,13,65.4,3.8,1021.8,Night,Overcast,Last Quarter
+78,16,63.9,0.6,1010.9,Dusk,Clear,Waxing Gibbous
+90,18,61.2,4.2,1006.9,Night,Partly Cloudy,Waxing Gibbous
+80,16,68.4,0.6,1014.1,Evening,Clear,First Quarter
+68,15,72.2,2.4,1012.3,Evening,Clear,Waning Crescent
+62,14,66.4,3.4,1015.9,Night,Clear,Waning Gibbous
+63,15,74.4,5.0,1016.8,Early Morning,Partly Cloudy,Full Moon
+71,17,70.5,2.9,1014.9,Night,Overcast,Waning Crescent
+76,18,65.3,0.1,1013.8,Evening,Overcast,Waxing Crescent
+66,17,68.0,8.8,1020.0,Dusk,Overcast,Waning Gibbous
+70,18,63.4,0.7,1015.5,Night,Partly Cloudy,Waning Gibbous
+81,19,59.2,3.5,1012.6,Night,Overcast,Waning Crescent
+90,22,63.8,5.0,1010.3,Early Morning,Partly Cloudy,Waning Crescent
+77,17,66.6,3.9,1006.9,Evening,Overcast,Waxing Crescent
+84,18,60.9,0.9,1008.9,Night,Clear,Last Quarter
+75,17,69.4,1.1,1011.8,Evening,Clear,Waning Gibbous
+76,19,68.4,0.7,1010.8,Night,Overcast,New Moon
+78,18,65.6,0.5,1009.5,Dusk,Overcast,Waxing Gibbous
+82,16,49.0,6.1,1011.7,Night,Overcast,Full Moon
+77,19,71.4,8.3,1008.8,Night,Clear,New Moon
+74,17,69.2,2.4,1011.9,Night,Clear,Waxing Crescent
+72,16,66.8,7.8,1009.9,Dusk,Overcast,New Moon
+72,17,63.8,0.5,1013.8,Dusk,Partly Cloudy,First Quarter
+87,19,60.3,5.7,1004.7,Evening,Clear,First Quarter
+65,15,65.8,0.6,1013.8,Night,Partly Cloudy,Last Quarter
+66,15,67.7,7.2,1015.4,Evening,Partly Cloudy,First Quarter
+62,16,73.0,5.6,1018.4,Evening,Overcast,Waxing Gibbous
+73,17,69.7,2.2,1017.7,Dusk,Partly Cloudy,Last Quarter
+73,16,72.7,12.1,1010.4,Evening,Overcast,Waning Gibbous
+89,17,63.5,5.9,1007.7,Night,Clear,Waxing Crescent
+68,16,65.2,5.9,1017.7,Evening,Partly Cloudy,New Moon
+79,16,59.8,9.3,1008.2,Dusk,Overcast,Full Moon
+85,17,53.7,4.8,1013.0,Night,Overcast,Waning Gibbous
+78,19,65.2,1.3,1011.9,Evening,Clear,Last Quarter
+81,16,59.5,3.1,1011.9,Night,Overcast,Waning Crescent
+75,19,63.3,6.1,1007.1,Evening,Clear,Full Moon
+67,15,71.5,2.0,1017.3,Night,Clear,Full Moon
+82,18,63.8,1.5,1014.4,Evening,Overcast,First Quarter
+72,17,74.5,3.1,1014.8,Evening,Partly Cloudy,Last Quarter
+80,20,66.4,0.2,1011.4,Evening,Overcast,Waning Gibbous
+84,16,65.7,11.3,1013.8,Evening,Overcast,New Moon
+69,17,56.5,6.5,1017.3,Early Morning,Overcast,Waxing Gibbous
+68,15,64.9,6.1,1017.1,Night,Overcast,First Quarter
+69,17,66.3,1.1,1011.3,Evening,Overcast,Waxing Gibbous
+73,16,67.0,0.4,1011.1,Night,Partly Cloudy,Waxing Crescent
+77,16,67.2,0.6,1014.1,Dusk,Clear,Waning Gibbous
+63,14,66.5,3.3,1013.9,Night,Partly Cloudy,Waning Crescent
+69,16,58.1,4.7,1007.2,Early Morning,Overcast,Last Quarter
+63,14,69.3,0.5,1015.1,Night,Clear,Waxing Crescent
+71,17,65.1,0.1,1011.1,Dusk,Overcast,Waning Gibbous
+74,17,67.2,7.7,1012.6,Dusk,Partly Cloudy,Full Moon
+77,16,65.9,1.9,1012.8,Early Morning,Partly Cloudy,Full Moon
+66,16,61.0,0.6,1016.2,Evening,Clear,Full Moon
+90,17,61.1,6.8,1007.2,Evening,Clear,Waning Gibbous
+64,13,68.5,2.6,1016.7,Evening,Partly Cloudy,Waning Gibbous
+77,18,65.6,5.1,1009.1,Night,Clear,Waning Crescent
+64,14,68.3,0.6,1011.9,Night,Clear,Last Quarter
+71,17,60.1,1.7,1018.4,Dusk,Overcast,Waning Crescent
+66,17,68.1,8.0,1011.4,Night,Overcast,Full Moon
+82,18,60.8,3.3,1010.3,Dusk,Overcast,New Moon
+88,18,65.0,5.6,1008.1,Evening,Clear,Waxing Crescent
+86,19,58.9,13.1,1006.6,Evening,Clear,Waxing Gibbous
+78,19,68.5,3.5,1007.1,Dusk,Overcast,Waning Gibbous
+86,19,60.6,7.9,1010.2,Dusk,Partly Cloudy,First Quarter
+63,13,61.0,1.5,1019.6,Evening,Clear,Waxing Crescent
+64,15,65.2,0.8,1015.7,Night,Clear,Full Moon
+81,19,69.4,0.2,1009.9,Early Morning,Clear,New Moon
+76,18,64.3,0.4,1010.2,Dusk,Partly Cloudy,Full Moon
+77,16,58.4,0.5,1016.4,Dusk,Overcast,Waxing Gibbous
+71,16,59.4,1.9,1014.4,Dusk,Clear,Waning Gibbous
+78,18,60.3,2.6,1012.8,Evening,Clear,New Moon
+84,16,59.7,4.5,1018.0,Dusk,Overcast,First Quarter
+81,19,62.2,0.4,1014.1,Night,Clear,First Quarter
+62,15,61.1,6.1,1023.1,Evening,Partly Cloudy,Waning Crescent
+75,19,73.1,13.0,1014.4,Night,Overcast,First Quarter
+90,17,68.3,2.6,1008.5,Evening,Partly Cloudy,Waning Gibbous
+68,17,69.3,7.3,1013.4,Evening,Clear,Waxing Crescent
+89,18,58.6,0.5,1011.7,Dusk,Partly Cloudy,Last Quarter
+88,21,63.0,6.5,1012.5,Night,Partly Cloudy,Full Moon
+72,18,72.9,1.3,1013.3,Night,Partly Cloudy,Waning Gibbous
+79,19,66.9,1.6,1019.2,Early Morning,Clear,New Moon
+65,17,68.7,0.0,1015.8,Dusk,Overcast,Waning Crescent
+66,17,69.0,6.2,1012.0,Night,Clear,New Moon
+76,17,70.3,2.4,1009.3,Dusk,Partly Cloudy,Waning Gibbous
+87,20,55.9,6.7,1013.1,Early Morning,Clear,Waning Crescent
+70,16,64.7,0.0,1015.9,Night,Partly Cloudy,Waning Gibbous
+80,20,67.1,3.9,1016.7,Night,Clear,Waxing Gibbous
+70,17,77.4,0.1,1013.5,Evening,Overcast,Waxing Gibbous
+90,17,70.5,4.1,1008.9,Dusk,Partly Cloudy,Waning Crescent
+79,19,65.7,5.4,1013.5,Night,Overcast,First Quarter
+84,20,64.8,0.3,1010.9,Evening,Overcast,Waxing Gibbous
+85,17,65.7,1.3,1006.7,Night,Clear,Full Moon
+65,17,65.5,0.0,1010.4,Evening,Overcast,New Moon
+69,15,68.5,7.4,1012.7,Evening,Clear,Waning Crescent
+69,17,62.6,0.2,1014.9,Night,Clear,Full Moon
+85,20,66.8,1.5,1008.2,Evening,Partly Cloudy,Waxing Crescent
+69,17,72.7,18.5,1011.1,Dusk,Overcast,Last Quarter
+79,18,72.5,0.9,1010.0,Evening,Clear,Waxing Crescent
+80,19,68.2,0.1,1012.1,Night,Partly Cloudy,Full Moon
+68,16,67.4,12.8,1018.5,Night,Partly Cloudy,Waxing Gibbous
+68,15,73.3,3.9,1013.3,Night,Overcast,Waning Crescent
+64,16,67.4,0.3,1015.7,Dusk,Partly Cloudy,Waxing Crescent
+73,17,66.1,6.5,1012.5,Dusk,Overcast,Last Quarter
+69,17,72.9,3.3,1016.6,Evening,Partly Cloudy,Last Quarter
+79,18,69.4,1.1,1014.6,Evening,Overcast,New Moon
+62,15,64.9,2.2,1017.9,Night,Clear,Waning Gibbous
+62,13,64.7,0.1,1013.2,Evening,Overcast,Waxing Gibbous
+78,19,65.3,5.0,1012.4,Evening,Clear,First Quarter
+83,18,60.3,2.2,1008.8,Night,Partly Cloudy,First Quarter
+76,17,64.9,0.2,1018.1,Evening,Partly Cloudy,Waning Gibbous
+86,17,57.5,6.0,1015.5,Dusk,Partly Cloudy,Waning Gibbous
+78,17,61.1,2.9,1019.8,Night,Clear,New Moon
+82,20,64.3,3.3,1016.4,Dusk,Partly Cloudy,Waxing Gibbous
+67,17,73.9,0.9,1014.8,Dusk,Clear,Waning Crescent
+78,16,59.4,3.7,1004.1,Evening,Overcast,Waning Gibbous
+71,18,64.0,0.7,1012.1,Evening,Clear,Waning Crescent
+75,19,66.1,1.0,1013.3,Dusk,Overcast,Waxing Gibbous
+73,17,66.2,12.2,1018.5,Evening,Overcast,Last Quarter
+85,20,63.2,18.4,1011.8,Evening,Clear,Waning Gibbous
+84,17,63.3,1.4,1010.6,Dusk,Overcast,Waning Gibbous
+77,16,64.6,0.9,1012.6,Dusk,Partly Cloudy,First Quarter
+78,18,61.6,0.8,1015.3,Dusk,Partly Cloudy,Waxing Crescent
+81,16,68.1,1.9,1011.8,Night,Clear,Waning Gibbous
+70,16,69.6,1.1,1013.5,Night,Overcast,First Quarter
+65,17,79.3,20,1013.0,Night,Overcast,Waxing Crescent
+85,17,67.1,0.6,1014.2,Dusk,Overcast,Last Quarter
+65,15,66.8,2.2,1013.5,Night,Clear,Waxing Gibbous
+81,19,65.6,0.6,1009.2,Dusk,Overcast,Full Moon
+80,18,68.9,13.8,1007.3,Night,Clear,Waxing Crescent
+66,17,70.1,3.8,1010.5,Dusk,Partly Cloudy,Waning Gibbous
+64,13,62.9,1.6,1016.3,Evening,Overcast,Waning Crescent
+73,18,65.3,1.2,1010.2,Evening,Overcast,New Moon
+66,17,70.9,2.4,1021.8,Dusk,Clear,Full Moon
+73,16,61.8,0.7,1014.9,Night,Partly Cloudy,Waxing Crescent
+64,15,69.5,2.4,1017.2,Evening,Overcast,New Moon
+81,16,56.7,2.2,1012.1,Evening,Partly Cloudy,Waning Gibbous
+87,19,62.4,1.9,1006.9,Dusk,Clear,Full Moon
+89,17,57.1,0.3,1006.6,Night,Clear,Full Moon
+81,19,65.2,0.3,1010.6,Dusk,Clear,Waning Gibbous
+84,18,63.1,1.4,1012.8,Night,Overcast,Full Moon
+73,18,68.3,0.6,1017.4,Night,Overcast,Full Moon
+64,13,70.8,6.9,1016.4,Night,Partly Cloudy,Last Quarter
+71,16,69.0,0.0,1009.7,Night,Clear,Last Quarter
+73,18,67.2,0.9,1018.4,Dusk,Overcast,Waning Crescent
+77,19,64.4,6.3,1009.1,Evening,Clear,Last Quarter
+90,22,62.3,0.9,1003.9,Evening,Clear,Waning Gibbous
+65,17,74.2,1.5,1020.7,Night,Partly Cloudy,Waning Gibbous
+85,17,58.8,4.6,1012.6,Evening,Overcast,Full Moon
+62,14,68.3,6.2,1017.5,Early Morning,Clear,Waning Gibbous
+64,13,60.9,9.8,1014.1,Evening,Partly Cloudy,Last Quarter
+73,16,66.4,3.1,1016.5,Dusk,Clear,Waning Gibbous
+66,17,64.6,9.0,1014.3,Dusk,Clear,First Quarter
+89,18,65.9,2.7,1009.7,Dusk,Clear,Last Quarter
+90,22,60.9,4.3,1010.6,Dusk,Clear,Waning Gibbous
+80,18,61.1,7.9,1011.3,Evening,Clear,Waxing Crescent
+70,16,69.4,5.4,1016.8,Evening,Clear,First Quarter
+79,17,65.8,6.8,1009.9,Night,Clear,Full Moon
+67,17,64.2,4.6,1013.5,Evening,Clear,First Quarter
+87,20,54.7,3.7,1011.3,Dusk,Partly Cloudy,Waning Crescent
+80,20,59.4,5.3,1012.5,Evening,Partly Cloudy,Waning Gibbous
+63,16,67.4,1.4,1012.1,Night,Clear,Last Quarter
+71,18,67.1,5.3,1020.6,Evening,Overcast,First Quarter
+67,16,67.1,4.8,1014.1,Dusk,Clear,Full Moon
+74,16,68.6,4.4,1010.8,Dusk,Overcast,Waxing Gibbous
+70,17,70.5,5.7,1012.8,Dusk,Partly Cloudy,Waxing Crescent
+76,18,65.3,6.0,1009.1,Evening,Clear,Full Moon
+90,19,60.3,0.1,1009.4,Night,Partly Cloudy,Last Quarter
+71,17,64.4,0.9,1016.7,Dusk,Partly Cloudy,Waxing Crescent
+87,18,60.1,4.4,1007.8,Evening,Partly Cloudy,Waxing Crescent
+69,17,72.5,5.0,1017.0,Evening,Partly Cloudy,Full Moon
+88,17,61.1,0.1,1007.6,Dusk,Partly Cloudy,Waxing Crescent
+82,19,59.3,0.3,1010.3,Night,Overcast,Full Moon
+71,17,68.7,1.0,1016.5,Dusk,Overcast,Waxing Gibbous
+77,16,62.5,4.0,1012.7,Evening,Overcast,Waxing Crescent
+80,16,59.8,0.2,1013.1,Dusk,Partly Cloudy,Waxing Gibbous
+82,17,65.7,1.1,1009.6,Dusk,Partly Cloudy,New Moon
+65,16,72.1,0.9,1015.8,Night,Clear,Waxing Crescent
+80,18,65.7,0.7,1006.1,Dusk,Partly Cloudy,Waxing Crescent
+64,13,68.8,3.9,1013.9,Night,Overcast,Last Quarter
+65,17,70.9,1.0,1015.4,Evening,Clear,New Moon
+79,17,60.6,2.0,1013.3,Evening,Clear,Full Moon
+82,18,60.4,0.3,1008.6,Dusk,Partly Cloudy,Waning Crescent
+90,22,63.3,3.1,1008.4,Early Morning,Clear,Full Moon
+74,16,70.1,15.9,1012.3,Night,Overcast,First Quarter
+69,15,63.6,8.6,1018.5,Evening,Overcast,Waning Crescent
+83,16,62.0,9.7,1010.8,Evening,Overcast,Waxing Gibbous
+77,19,59.0,0.1,1012.3,Dusk,Clear,Full Moon
+64,13,67.8,1.1,1019.5,Dusk,Clear,Waning Gibbous
+76,17,61.9,1.9,1012.7,Night,Clear,Waning Crescent
+69,17,67.2,1.3,1012.1,Night,Clear,Last Quarter
+70,16,64.5,0.1,1012.5,Night,Partly Cloudy,Waning Gibbous
+88,21,62.0,9.5,1012.8,Night,Clear,Waxing Gibbous
+67,15,64.1,1.6,1013.6,Evening,Clear,Waxing Crescent
+72,18,67.7,0.9,1013.1,Night,Clear,Waxing Gibbous
+87,21,63.9,3.2,1010.7,Night,Clear,Waxing Gibbous
+69,16,62.7,2.5,1014.7,Dusk,Clear,Waxing Gibbous
+64,16,64.1,1.4,1018.2,Evening,Overcast,Waxing Gibbous
+83,19,61.8,0.3,1015.8,Early Morning,Partly Cloudy,Last Quarter
+66,17,70.7,2.8,1018.5,Night,Clear,Waning Crescent
+73,16,69.2,7.7,1014.0,Night,Partly Cloudy,First Quarter
+67,17,65.8,1.9,1014.8,Evening,Partly Cloudy,Last Quarter
+80,19,59.8,1.6,1010.2,Night,Clear,First Quarter
+71,16,66.4,7.9,1014.1,Night,Partly Cloudy,Waning Crescent
+90,22,58.1,2.0,1010.3,Night,Partly Cloudy,Waning Crescent
+74,16,60.7,0.3,1021.6,Night,Clear,Last Quarter
+68,15,69.0,5.8,1014.4,Early Morning,Overcast,Waning Gibbous
+63,14,63.7,4.7,1016.4,Night,Overcast,Last Quarter
+64,15,74.2,1.1,1014.1,Dusk,Partly Cloudy,New Moon
+65,17,67.1,1.2,1011.9,Evening,Overcast,First Quarter
+90,21,60.9,12.1,1012.6,Night,Clear,Waxing Crescent
+74,18,66.7,10.0,1009.0,Evening,Overcast,Waxing Crescent
+81,18,60.5,2.2,1011.0,Night,Partly Cloudy,Full Moon
+87,19,56.3,8.7,1009.4,Evening,Partly Cloudy,Waxing Crescent
+82,16,65.7,6.4,1013.4,Night,Partly Cloudy,Waxing Gibbous
+66,16,71.7,1.5,1014.4,Early Morning,Partly Cloudy,New Moon
+83,19,68.5,2.2,1013.6,Evening,Partly Cloudy,Last Quarter
+80,17,64.9,4.9,1014.1,Dusk,Clear,Waxing Crescent
+72,18,59.7,0.8,1015.6,Dusk,Clear,Waxing Gibbous
+84,18,61.4,2.1,1016.8,Night,Overcast,Waxing Crescent
+80,19,65.6,1.4,1010.2,Evening,Partly Cloudy,Waxing Crescent
+83,17,58.9,2.6,1013.9,Night,Clear,New Moon
+75,17,71.2,0.0,1014.9,Evening,Clear,Waxing Crescent
+83,19,64.5,1.9,1015.8,Evening,Partly Cloudy,Waning Crescent
+66,15,64.0,2.2,1016.2,Evening,Partly Cloudy,Waning Gibbous
+85,18,65.4,4.4,1003.5,Evening,Clear,Waning Gibbous
+65,16,73.6,0.0,1012.1,Night,Partly Cloudy,First Quarter
+78,18,66.3,3.0,1012.3,Early Morning,Clear,Waning Gibbous
+78,19,59.0,8.2,1013.5,Evening,Overcast,Waxing Gibbous
+62,16,75.4,11.4,1017.0,Evening,Overcast,Waning Gibbous
+86,21,70.0,5.3,1004.0,Night,Clear,Waning Crescent
+72,18,62.2,0.3,1016.3,Evening,Partly Cloudy,Waxing Crescent
+82,16,61.4,0.9,1008.4,Dusk,Overcast,New Moon
+83,19,67.8,1.4,1014.5,Night,Overcast,Waning Crescent
+76,19,67.7,0.5,1015.5,Night,Clear,Waxing Gibbous
+86,19,63.2,4.3,1014.6,Dusk,Partly Cloudy,New Moon
+73,16,70.2,9.3,1019.4,Night,Clear,Full Moon
+82,18,57.7,4.4,1004.5,Night,Overcast,Waning Crescent
+89,18,65.1,8.2,1011.3,Early Morning,Clear,Waning Gibbous
+65,15,63.4,5.3,1019.3,Evening,Overcast,Last Quarter
+76,17,65.6,0.5,1010.7,Dusk,Clear,Waning Gibbous
+83,16,60.7,5.5,1003.6,Dusk,Partly Cloudy,First Quarter
+86,21,68.6,3.4,1003.8,Dusk,Clear,Waxing Gibbous
+82,17,68.6,1.5,1004.0,Evening,Overcast,First Quarter
+83,17,56.4,1.0,1010.1,Evening,Overcast,Waning Crescent
+80,18,60.5,1.4,1016.6,Dusk,Overcast,Waning Crescent
+72,17,68.2,5.5,1015.9,Night,Overcast,New Moon
+80,18,60.7,18.6,1010.0,Dusk,Overcast,Waning Crescent
+85,17,59.1,1.4,1008.5,Early Morning,Clear,Waning Gibbous
+75,19,69.6,7.5,1016.9,Early Morning,Clear,New Moon
+83,20,69.4,7.8,1008.2,Night,Partly Cloudy,First Quarter
+76,16,69.1,1.6,1012.5,Night,Partly Cloudy,Last Quarter
+89,20,57.1,1.3,1011.1,Night,Clear,Last Quarter
+75,17,67.9,6.3,1014.5,Night,Clear,Full Moon
+80,17,60.7,0.6,1012.0,Night,Partly Cloudy,First Quarter
+88,17,61.6,0.9,1014.3,Night,Partly Cloudy,Waxing Crescent
+67,17,63.0,0.6,1007.3,Early Morning,Partly Cloudy,First Quarter
+86,18,62.7,14.6,1009.1,Dusk,Clear,Waxing Crescent
+81,19,69.4,3.6,1010.7,Early Morning,Overcast,Last Quarter
+65,17,69.1,2.0,1017.5,Evening,Overcast,First Quarter
+74,16,62.7,4.7,1010.9,Night,Overcast,Waxing Crescent
+90,17,60.4,4.2,1002.6,Evening,Partly Cloudy,Waning Gibbous
+77,16,65.7,0.5,1012.5,Night,Overcast,Waxing Gibbous
+73,18,71.5,3.4,1014.2,Evening,Overcast,Waxing Crescent
+67,15,67.9,2.6,1013.6,Night,Partly Cloudy,Full Moon
+67,17,66.6,0.3,1014.8,Early Morning,Overcast,First Quarter
+66,17,63.5,2.0,1018.3,Night,Overcast,Waning Crescent
+90,19,67.0,3.1,1010.7,Night,Clear,Waxing Gibbous
+78,18,72.6,0.8,1010.7,Evening,Clear,New Moon
+62,15,62.4,0.5,1015.1,Dusk,Clear,First Quarter
+62,15,71.8,5.6,1018.1,Dusk,Clear,Full Moon
+75,16,61.2,2.2,1015.8,Early Morning,Clear,Waxing Gibbous
+71,16,63.1,2.9,1021.1,Night,Overcast,Waning Crescent
+85,19,65.0,1.5,1012.7,Early Morning,Partly Cloudy,Waxing Gibbous
+81,17,60.4,0.2,1007.1,Dusk,Clear,Full Moon
+79,18,65.6,0.6,1010.2,Evening,Overcast,Waning Gibbous
+68,16,66.2,2.2,1019.9,Evening,Partly Cloudy,Last Quarter
+82,20,62.3,2.4,1009.5,Early Morning,Overcast,Last Quarter
+87,20,63.8,0.9,1008.8,Night,Partly Cloudy,Waxing Gibbous
+74,17,64.3,4.2,1009.5,Evening,Clear,Last Quarter
+65,16,70.0,6.2,1013.6,Evening,Overcast,Waxing Gibbous
+75,16,66.3,0.5,1013.7,Evening,Clear,Waning Gibbous
+75,17,62.6,1.6,1010.8,Evening,Clear,Full Moon
+87,17,64.1,13.9,1009.6,Evening,Clear,Waxing Crescent
+75,18,68.4,1.5,1017.3,Night,Partly Cloudy,Waxing Crescent
+80,20,58.4,8.0,1010.7,Evening,Overcast,Waxing Crescent
+66,17,70.5,11.7,1014.6,Evening,Partly Cloudy,Last Quarter
+77,16,61.6,0.0,1012.6,Evening,Clear,First Quarter
+62,14,71.9,1.2,1019.9,Early Morning,Overcast,Waning Gibbous
+85,18,60.7,3.8,1007.8,Night,Clear,Waning Crescent
+81,16,69.2,2.8,1010.7,Evening,Partly Cloudy,Waxing Gibbous
+80,19,61.3,11.8,1017.1,Evening,Partly Cloudy,Waxing Crescent
+87,20,60.6,1.1,1008.5,Dusk,Clear,Waxing Crescent
+75,17,64.8,2.7,1009.2,Night,Partly Cloudy,First Quarter
+81,18,58.3,20,1011.7,Night,Overcast,Waxing Crescent
+78,16,58.7,9.7,1014.4,Night,Overcast,Last Quarter
+83,19,60.8,1.1,1005.8,Night,Overcast,New Moon
+87,21,54.1,4.5,1004.6,Night,Clear,First Quarter
+78,17,70.6,2.9,1014.7,Early Morning,Partly Cloudy,Waning Crescent
+70,17,64.2,0.5,1016.5,Early Morning,Clear,Waxing Crescent
+82,20,62.6,1.2,1014.2,Dusk,Overcast,Last Quarter
+89,21,62.1,10.8,1011.3,Night,Clear,Waning Crescent
+81,19,69.7,0.2,1007.6,Dusk,Partly Cloudy,Waning Gibbous
+86,20,61.5,1.7,1011.1,Night,Partly Cloudy,Waning Gibbous
+88,20,65.5,0.9,1009.3,Evening,Clear,Last Quarter
+78,19,68.1,0.7,1014.5,Night,Clear,Waning Crescent
+76,18,62.4,2.2,1014.2,Dusk,Partly Cloudy,Waxing Crescent
+74,18,71.7,2.3,1013.0,Dusk,Overcast,Last Quarter
+78,16,71.6,4.9,1012.3,Dusk,Partly Cloudy,New Moon
+81,16,64.9,1.6,1013.5,Dusk,Overcast,Waxing Gibbous
+62,14,78.3,16.3,1014.5,Dusk,Partly Cloudy,Waning Crescent
+85,21,64.9,1.6,1005.5,Night,Partly Cloudy,Last Quarter
+87,21,69.0,6.3,1014.9,Dusk,Partly Cloudy,New Moon
+85,17,61.3,4.5,1007.8,Evening,Overcast,New Moon
+80,20,61.5,2.7,1012.5,Night,Clear,First Quarter
+75,19,65.7,1.3,1011.1,Dusk,Partly Cloudy,Waxing Gibbous
+73,17,63.7,2.6,1010.9,Night,Clear,First Quarter
+82,18,65.7,4.0,1016.4,Dusk,Clear,First Quarter
+71,16,63.5,0.9,1015.6,Dusk,Clear,Waxing Gibbous
+74,18,67.0,2.1,1013.8,Evening,Overcast,Waxing Gibbous
+82,19,63.9,0.3,1014.0,Evening,Clear,Full Moon
+81,17,65.5,11.5,1013.0,Night,Clear,Waning Gibbous
+81,17,64.6,0.0,1010.0,Night,Partly Cloudy,Waxing Gibbous
+86,17,59.9,3.7,1012.1,Evening,Partly Cloudy,Waning Crescent
+83,20,61.1,0.4,1012.5,Dusk,Overcast,First Quarter
+72,16,62.5,1.8,1018.2,Night,Overcast,Waning Gibbous
